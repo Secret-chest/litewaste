@@ -1,0 +1,1526 @@
+./list.py
+./list.txt
+./Textile, Cotton Disc/original_20230702_175515.jpg
+./Textile, Cotton Disc/original_20230702_175652.jpg
+./Textile, Cotton Disc/original_20230702_175452.jpg
+./Textile, Cotton Disc/original_20230702_175614.jpg
+./Textile, Cotton Disc/original_20230702_175632.jpg
+./Textile, Cotton Disc/original_20230702_175531.jpg
+./Textile, Cotton Disc/original_20230702_175416.jpg
+./Textile, Cotton Disc/original_20230702_175552.jpg
+./Textile, Cotton Disc/original_20230702_175603.jpg
+./Textile, Cotton Disc/original_20230702_175543.jpg
+./Textile, Cotton Disc/original_20230702_175426.jpg
+./Textile, Cotton Disc/original_20230702_175458.jpg
+./Textile, Cotton Disc/original_20230702_175705.jpg
+./Textile, Cotton Disc/original_20230702_175444.jpg
+./Textile, Cotton Disc/original_20230702_175716.jpg
+./Textile, Cotton Disc/original_20230702_175522.jpg
+./Textile, Cotton Disc/original_20230702_175618.jpg
+./Textile, Cotton Disc/original_20230702_175636.jpg
+./Textile, Cotton Disc/original_20230702_175440.jpg
+./Textile, Cotton Disc/original_20230702_175432.jpg
+./Textile, Cotton Disc/original_20230702_175534.jpg
+./Paper, Small Cardboard Packaging/original_20230803_205256.jpg
+./Paper, Small Cardboard Packaging/original_20230804_110159.jpg
+./Paper, Small Cardboard Packaging/original_20230804_121019.jpg
+./Paper, Small Cardboard Packaging/original_20230804_121558.jpg
+./Paper, Small Cardboard Packaging/original_20230804_115943.jpg
+./Paper, Small Cardboard Packaging/original_20230803_203854.jpg
+./Paper, Small Cardboard Packaging/original_20230804_121045.jpg
+./Paper, Small Cardboard Packaging/original_IMG-20230712-WA0026.jpg
+./Paper, Small Cardboard Packaging/original_IMG-20230712-WA0001.jpg
+./Paper, Small Cardboard Packaging/original_20230801_211353.jpg
+./Paper, Small Cardboard Packaging/original_20230804_121107.jpg
+./Plastic, HDPE Bottle/original_20230804_084816.jpg
+./Plastic, HDPE Bottle/original_20230804_084826.jpg
+./Plastic, HDPE Bottle/original_20230804_084806.jpg
+./Plastic, HDPE Bottle/original_20230803_205710.jpg
+./Plastic, HDPE Bottle/original_20230807_203430.jpg
+./Plastic, HDPE Bottle/original_20230804_195619.jpg
+./Plastic, HDPE Bottle/original_20230807_203514.jpg
+./Other, Rubber Balloon/original_20230804_110139.jpg
+./Other, Rubber Balloon/original_20230804_110130.jpg
+./Other, Rubber Balloon/original_20230807_202007.jpg
+./Plastic, Nylon/original_20230803_205048.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_195441.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173704.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173532.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174550.jpg
+./Paper, Cardboard Box or Sheet/original_20230711_215031.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174456.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173859.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173822.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173534.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191332.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173902.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173753.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173610.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174202.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174412.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174227.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174301.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174240.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173714.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173919.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174231.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173722.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173818.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173852.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173750.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173525.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173445.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173912.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173321.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173757.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174520.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_195446.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174625.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174344.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173644.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191202.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173549.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173616.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173708.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173824.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173826.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174342.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191339.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173814.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174434.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174154.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174210.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173438.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173812.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174333.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174552.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174404.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174339.jpg
+./Paper, Cardboard Box or Sheet/original_20230807_202107.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173911.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173731.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191228.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173411.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174016.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173317.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174616.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173511.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191301.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191406.jpg
+./Paper, Cardboard Box or Sheet/original_20230711_215029.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173646.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173516.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173651.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174528.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_195500.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173418.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173456.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174213.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174018.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173651(0).jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173433.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173810.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173636.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174441.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174100.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174259.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174533.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174056.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173726.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191420.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173513(0).jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174402.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173359.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173630.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174010.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173540.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173655(0).jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174338.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173533.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174233.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174146.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173545.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173531.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191353.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174028.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174052.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174629.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174000.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174340.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191323.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174352.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174406.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174516.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173530.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174459.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173539.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174001.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173649.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191207.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173758.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173647.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173627.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191250.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173657.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174005.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191317.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173743.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174305.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173258.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173552.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174044.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173730.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191423.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173906.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173655.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173520.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173845.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174536.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173654.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174048.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174356.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174008.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174338(0).jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173707.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173328.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174637.jpg
+./Paper, Cardboard Box or Sheet/original_20230711_215033.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173441(0).jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173741.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174525.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173311.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_195436.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174012.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173334.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174023.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173705.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174329.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174255.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173427.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173717.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174453.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174542.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173435.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174354.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173638.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_195455.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174438.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173529.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174030.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174445.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173855.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174403.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173553.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173613.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173305.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174244.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174246.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173513.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173921.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173620.jpg
+./Paper, Cardboard Box or Sheet/original_20230704_163659.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173522.jpg
+./Paper, Cardboard Box or Sheet/original_20230711_215026.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174203.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174357.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191254.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173441.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173521.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173252.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174200.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173925.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174639.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173423.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174236.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173643.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173442.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173914.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173848.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173817.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191246.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173721.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_191223.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174416.jpg
+./Paper, Cardboard Box or Sheet/original_20230616_195506.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174408.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173732.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174605.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173813.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173542.jpg
+./Paper, Cardboard Box or Sheet/original_20230804_195747.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173924.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173526.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174149.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_174003.jpg
+./Paper, Cardboard Box or Sheet/original_20230702_173430.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214344.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213946.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214213.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213803.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213758.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214319.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214356.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214510.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214443.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214219.jpg
+./Plastic, LDPE Bag or Film/original_20230704_163053.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213904.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214416.jpg
+./Plastic, LDPE Bag or Film/original_20230712_165854.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213828.jpg
+./Plastic, LDPE Bag or Film/original_20230617_082132.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214304.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213953.jpg
+./Plastic, LDPE Bag or Film/original_20230804_195800.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213723.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213912.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214026.jpg
+./Plastic, LDPE Bag or Film/original_20230617_082141.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213900.jpg
+./Plastic, LDPE Bag or Film/original_20230804_195355.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213926.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214036.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214351.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213709.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214402.jpg
+./Plastic, LDPE Bag or Film/original_20230801_204813.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213958.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214043.jpg
+./Plastic, LDPE Bag or Film/original_20230803_201749.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214513.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213659.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214455.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214230.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213935.jpg
+./Plastic, LDPE Bag or Film/original_20230807_201941.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213734.jpg
+./Plastic, LDPE Bag or Film/original_20230617_082159.jpg
+./Plastic, LDPE Bag or Film/original_20230617_082056.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213809.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214044.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214525.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214326.jpg
+./Plastic, LDPE Bag or Film/original_20230617_082223.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214017.jpg
+./Plastic, LDPE Bag or Film/original_20230616_200209.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213818.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214517.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213847.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214450.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213840.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214447.jpg
+./Plastic, LDPE Bag or Film/original_20230617_082126.jpg
+./Plastic, LDPE Bag or Film/original_20230617_082212.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214236.jpg
+./Plastic, LDPE Bag or Film/original_20230704_162729.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213918.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213801.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214257.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214007.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213908.jpg
+./Plastic, LDPE Bag or Film/original_20230616_200215.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213854.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214520.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214528.jpg
+./Plastic, LDPE Bag or Film/original_20230617_082051.jpg
+./Plastic, LDPE Bag or Film/original_20230801_205301.jpg
+./Plastic, LDPE Bag or Film/original_20230617_082105.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214313.jpg
+./Plastic, LDPE Bag or Film/original_20230616_214031.jpg
+./Plastic, LDPE Bag or Film/original_20230616_213820.jpg
+./Plastic, LDPE Bag or Film/original_20230704_163100.jpg
+./Plastic, White PP Cup/original_20230707_132711.jpg
+./Plastic, White PP Cup/original_20230807_201725.jpg
+./Plastic, White PP Cup/original_20230807_201723.jpg
+./Other, Kitchen Sponge/original_20230803_205705.jpg
+./Plastic, PP Label/original_20230803_205901.jpg
+./Plastic, PP Label/original_20230804_195641.jpg
+./Plastic, PP Label/original_20230804_195913.jpg
+./Plastic, PP Label/original_20230803_205027.jpg
+./Other, Cigarette Butt/original_20230804_200006.jpg
+./Other, Cigarette Butt/original_20230712_165901.jpg
+./Other, Cigarette Butt/original_20230617_205509.jpg
+./Other, Cigarette Butt/original_20230711_212929.jpg
+./Other, Cigarette Butt/original_20230804_195832.jpg
+./Other, Cigarette Butt/original_20230617_205647.jpg
+./Other, Cigarette Butt/original_20230617_205636.jpg
+./Other, Cigarette Butt/original_20230711_212950.jpg
+./Other, Cigarette Butt/original_20230617_205617.jpg
+./Other, Cigarette Butt/original_20230617_205640.jpg
+./Other, Cigarette Butt/original_20230711_212940.jpg
+./Other, Cigarette Butt/original_20230804_195903.jpg
+./Other, Cigarette Butt/original_20230617_205639.jpg
+./Other, Cigarette Butt/original_20230711_213051.jpg
+./Other, Cigarette Butt/original_20230711_213016.jpg
+./Other, Cigarette Butt/original_20230617_205530.jpg
+./Other, Cigarette Butt/original_20230804_121708.jpg
+./Other, Cigarette Butt/original_20230804_121103.jpg
+./Other, Cigarette Butt/original_20230617_205606.jpg
+./Other, Cigarette Butt/original_20230711_212944.jpg
+./Other, Cigarette Butt/original_20230617_205610.jpg
+./Other, Cigarette Butt/original_20230711_212942.jpg
+./Other, Cigarette Butt/original_20230711_213558.jpg
+./Other, Cigarette Butt/original_20230704_161802.jpg
+./Other, Cigarette Butt/original_20230711_213450.jpg
+./Other, Cigarette Butt/original_20230617_205548.jpg
+./Other, Cigarette Butt/original_20230804_195437.jpg
+./Other, Cigarette Butt/original_20230704_163930.jpg
+./Other, Cigarette Butt/original_20230711_213230.jpg
+./Other, Cigarette Butt/original_20230617_205629.jpg
+./Other, Cigarette Butt/original_20230704_163014.jpg
+./Other, Cigarette Butt/original_20230617_205544.jpg
+./Other, Cigarette Butt/original_20230617_205534.jpg
+./Other, Cigarette Butt/original_20230804_195840.jpg
+./Other, Cigarette Butt/original_20230804_200000.jpg
+./Other, Cigarette Butt/original_20230711_213318.jpg
+./Other, Cigarette Butt/original_20230617_205520.jpg
+./Other, Cigarette Butt/original_20230617_205541.jpg
+./Other, Cigarette Butt/original_20230804_121059.jpg
+./Plastic, PET Bottle/original_20230616_185838.jpg
+./Plastic, PET Bottle/original_20230807_202442.jpg
+./Plastic, PET Bottle/original_20230704_163534.jpg
+./Plastic, PET Bottle/original_20230803_204809.jpg
+./Plastic, PET Bottle/original_20230801_205030.jpg
+./Plastic, PET Bottle/original_20230704_162159.jpg
+./Plastic, PET Bottle/original_20230616_185635.jpg
+./Plastic, PET Bottle/original_20230704_163042.jpg
+./Plastic, PET Bottle/original_20230616_185804.jpg
+./Plastic, PET Bottle/original_20230616_185725.jpg
+./Plastic, PET Bottle/original_20230803_203610.jpg
+./Plastic, PET Bottle/original_IMG-20230712-WA0008.jpg
+./Plastic, PET Bottle/original_IMG-20230712-WA0002.jpg
+./Plastic, PET Bottle/original_20230711_213934.jpg
+./Plastic, PET Bottle/original_20230711_213823.jpg
+./Plastic, PET Bottle/original_20230616_185828.jpg
+./Plastic, PET Bottle/original_20230803_205035.jpg
+./Plastic, PET Bottle/original_20230616_185746.jpg
+./Plastic, PET Bottle/original_20230616_183939.jpg
+./Plastic, PET Bottle/original_20230807_202031.jpg
+./Plastic, PET Bottle/original_20230801_205043.jpg
+./Plastic, PET Bottle/original_20230616_193911.jpg
+./Plastic, PET Bottle/original_20230616_185909.jpg
+./Plastic, PET Bottle/original_20230616_193956.jpg
+./Plastic, PET Bottle/original_IMG-20230712-WA0005.jpg
+./Plastic, PET Bottle/original_IMG-20230712-WA0011.jpg
+./Plastic, PET Bottle/original_20230616_185855.jpg
+./Plastic, PET Bottle/original_20230616_185617.jpg
+./Plastic, PET Bottle/original_20230807_202940.jpg
+./Plastic, PET Bottle/original_20230801_205005.jpg
+./Plastic, PET Bottle/original_20230616_185834.jpg
+./Plastic, PET Bottle/original_20230616_185858.jpg
+./Plastic, PET Bottle/original_20230616_185750.jpg
+./Plastic, PET Bottle/original_IMG-20230711-WA0002.jpg
+./Plastic, PET Bottle/original_20230801_204914.jpg
+./Plastic, PET Bottle/original_20230803_201744.jpg
+./Plastic, PET Bottle/original_20230807_202815.jpg
+./Plastic, PET Bottle/original_IMG-20230712-WA0006.jpg
+./Plastic, PET Bottle/original_20230616_185951.jpg
+./Plastic, PET Bottle/original_20230807_203230.jpg
+./Plastic, PET Bottle/original_20230704_163558.jpg
+./Plastic, PET Bottle/original_20230807_202034.jpg
+./Plastic, PET Bottle/original_20230711_213935.jpg
+./Plastic, PET Bottle/original_IMG-20230712-WA0000.jpg
+./Plastic, PET Bottle/original_20230704_163156.jpg
+./Plastic, PET Bottle/original_20230801_205649.jpg
+./Plastic, PET Bottle/original_20230616_185721.jpg
+./Plastic, PET Bottle/original_20230807_203355.jpg
+./Plastic, PET Bottle/original_20230704_163715.jpg
+./Plastic, PET Bottle/original_20230803_204828.jpg
+./Plastic, PET Bottle/original_20230711_213925.jpg
+./Plastic, PET Bottle/original_20230616_184203.jpg
+./Plastic, PET Bottle/original_20230616_185935.jpg
+./Plastic, PET Bottle/original_20230801_204911.jpg
+./Plastic, PET Bottle/original_20230704_163303.jpg
+./Plastic, PET Bottle/original_20230616_193756.jpg
+./Plastic, PET Bottle/original_20230616_185844.jpg
+./Plastic, PET Bottle/original_20230616_185902.jpg
+./Plastic, PET Bottle/original_20230807_203409.jpg
+./Plastic, PET Bottle/original_20230616_194016.jpg
+./Plastic, PET Bottle/original_20230702_210355.jpg
+./Plastic, PET Bottle/original_20230616_183956.jpg
+./Plastic, PET Bottle/original_20230711_215124.jpg
+./Plastic, PET Bottle/original_20230704_162221.jpg
+./Plastic, PET Bottle/original_20230807_202124.jpg
+./Plastic, PET Bottle/original_20230616_185603.jpg
+./Plastic, PET Bottle/original_20230616_185744.jpg
+./Plastic, PET Bottle/original_20230801_204816.jpg
+./Plastic, PET Bottle/original_20230616_185901.jpg
+./Plastic, PET Bottle/original_20230616_185417.jpg
+./Plastic, PET Bottle/original_20230616_185833.jpg
+./Plastic, PET Bottle/original_20230616_185759.jpg
+./Plastic, PET Bottle/original_20230616_193905.jpg
+./Plastic, PET Bottle/original_20230803_205857.jpg
+./Plastic, PET Bottle/original_20230801_205659.jpg
+./Plastic, PET Bottle/original_20230807_203203.jpg
+./Plastic, PET Bottle/original_20230807_203110.jpg
+./Plastic, PET Bottle/original_20230704_163818.jpg
+./Plastic, PET Bottle/original_20230803_204905.jpg
+./Plastic, PET Bottle/original_20230704_163251.jpg
+./Plastic, PET Bottle/original_20230704_162126.jpg
+./Plastic, PET Bottle/original_20230803_203555.jpg
+./Plastic, PET Bottle/original_20230807_203150.jpg
+./Plastic, PET Bottle/original_20230711_213522.jpg
+./Plastic, PET Bottle/original_20230801_210202.jpg
+./Plastic, PET Bottle/original_20230616_185928.jpg
+./Plastic, PET Bottle/original_20230704_162146.jpg
+./Plastic, PET Bottle/original_20230807_203249.jpg
+./Plastic, PET Bottle/original_20230807_202659.jpg
+./Plastic, PET Bottle/original_20230807_203804.jpg
+./Plastic, PET Bottle/original_20230616_185440.jpg
+./Plastic, PET Bottle/original_20230804_195633.jpg
+./Plastic, PET Bottle/original_20230616_185401.jpg
+./Plastic, PET Bottle/original_20230616_194003.jpg
+./Plastic, PET Bottle/original_20230616_184145.jpg
+./Plastic, PET Bottle/original_20230804_121603.jpg
+./Plastic, PET Bottle/original_20230804_121534.jpg
+./Plastic, PET Bottle/original_20230803_203729.jpg
+./Plastic, PET Bottle/original_20230616_183946.jpg
+./Plastic, PET Bottle/original_20230704_162739.jpg
+./Plastic, PET Bottle/original_20230801_204151.jpg
+./Plastic, PET Bottle/original_20230616_185556.jpg
+./Plastic, PET Bottle/original_20230803_205019.jpg
+./Plastic, PET Bottle/original_20230803_205039.jpg
+./Plastic, PET Bottle/original_20230616_185729.jpg
+./Plastic, PET Bottle/original_20230807_203522.jpg
+./Plastic, PET Bottle/original_20230616_185612.jpg
+./Plastic, PET Bottle/original_20230704_163309.jpg
+./Plastic, PET Bottle/original_20230616_185648.jpg
+./Plastic, PET Bottle/original_20230616_190001.jpg
+./Plastic, PET Bottle/original_20230711_215111.jpg
+./Plastic, PET Bottle/original_20230616_184020.jpg
+./Plastic, PET Bottle/original_20230807_203937.jpg
+./Plastic, PET Bottle/original_20230616_185411.jpg
+./Plastic, PET Bottle/original_20230807_202146.jpg
+./Plastic, PET Bottle/original_20230801_211406.jpg
+./Plastic, PET Bottle/original_20230616_185902(0).jpg
+./Plastic, PET Bottle/original_20230801_210630.jpg
+./Plastic, PET Bottle/original_20230616_185919.jpg
+./Plastic, PET Bottle/original_20230704_163725.jpg
+./Plastic, PET Bottle/original_20230803_205022.jpg
+./Plastic, PET Bottle/original_20230616_185533.jpg
+./Plastic, PET Bottle/original_20230711_213938.jpg
+./Plastic, PET Bottle/original_20230616_185637.jpg
+./Plastic, PET Bottle/original_20230711_213512.jpg
+./Plastic, PET Bottle/original_20230616_194007.jpg
+./Plastic, PET Bottle/original_20230807_202619.jpg
+./Plastic, PET Bottle/original_20230801_205458.jpg
+./Plastic, PET Bottle/original_20230704_163553.jpg
+./Plastic, PET Bottle/original_20230616_185824.jpg
+./Plastic, PET Bottle/original_20230711_215126.jpg
+./Plastic, PET Bottle/original_20230616_185907.jpg
+./Plastic, PET Bottle/original_20230616_185809.jpg
+./Plastic, PET Bottle/original_20230807_203034.jpg
+./Plastic, PET Bottle/original_20230807_202742.jpg
+./Plastic, PET Bottle/original_20230704_163311.jpg
+./Plastic, PET Bottle/original_20230616_185813.jpg
+./Plastic, PET Bottle/original_20230616_185545.jpg
+./Plastic, PET Bottle/original_20230616_184131.jpg
+./Plastic, PET Bottle/original_20230616_193759.jpg
+./Plastic, PET Bottle/original_20230616_185803.jpg
+./Plastic, PET Bottle/original_20230616_185832.jpg
+./Plastic, PET Bottle/original_20230709_133648.jpg
+./Plastic, PET Bottle/original_20230711_215115.jpg
+./Plastic, PET Bottle/original_20230807_202702.jpg
+./Plastic, PET Bottle/original_20230616_193845.jpg
+./Plastic, PET Bottle/original_20230616_184003.jpg
+./Plastic, PET Bottle/original_20230616_184207.jpg
+./Plastic, PET Bottle/original_20230616_193922.jpg
+./Plastic, PET Bottle/original_20230807_203303.jpg
+./Plastic, PET Bottle/original_20230702_205845.jpg
+./Plastic, PET Bottle/original_20230801_210837.jpg
+./Plastic, PET Bottle/original_20230704_162121.jpg
+./Plastic, PET Bottle/original_20230616_185944.jpg
+./Plastic, PET Bottle/original_20230704_163149.jpg
+./Plastic, PET Bottle/original_20230704_161901.jpg
+./Plastic, PET Bottle/original_20230616_185432.jpg
+./Plastic, PET Bottle/original_20230616_185537.jpg
+./Plastic, PET Bottle/original_20230704_162020.jpg
+./Plastic, PET Bottle/original_20230801_205012.jpg
+./Plastic, PET Bottle/original_20230807_203227.jpg
+./Plastic, PET Bottle/original_20230807_202154.jpg
+./Plastic, Clear PS Cup/original_20230616_195827.jpg
+./Plastic, Clear PS Cup/original_20230616_195855.jpg
+./Plastic, Clear PS Cup/original_20230616_200023.jpg
+./Plastic, Clear PS Cup/original_20230616_200005.jpg
+./Plastic, Clear PS Cup/original_20230616_200015.jpg
+./Plastic, Clear PS Cup/original_20230616_200011.jpg
+./Plastic, Clear PS Cup/original_20230616_195905.jpg
+./Plastic, Expanded Polystyrene/original_20230702_210611.jpg
+./Plastic, Expanded Polystyrene/original_20230704_163336.jpg
+./Plastic, Expanded Polystyrene/original_20230704_163338.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162711.jpg
+./Plastic, Expanded Polystyrene/original_20230704_163621.jpg
+./Plastic, Expanded Polystyrene/original_20230807_203153.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162950.jpg
+./Plastic, Expanded Polystyrene/original_20230704_163324.jpg
+./Plastic, Expanded Polystyrene/original_20230807_202942.jpg
+./Plastic, Expanded Polystyrene/original_20230807_203053.jpg
+./Plastic, Expanded Polystyrene/original_20230704_161956.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162422.jpg
+./Plastic, Expanded Polystyrene/original_20230704_161952.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162947.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162304.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162012.jpg
+./Plastic, Expanded Polystyrene/original_20230704_161832.jpg
+./Plastic, Expanded Polystyrene/original_20230807_203240.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162416.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162409.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162949.jpg
+./Plastic, Expanded Polystyrene/original_20230704_163626.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162407.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162446.jpg
+./Plastic, Expanded Polystyrene/original_20230807_202908.jpg
+./Plastic, Expanded Polystyrene/original_20230807_203418.jpg
+./Plastic, Expanded Polystyrene/original_20230704_161933.jpg
+./Plastic, Expanded Polystyrene/original_20230807_202849.jpg
+./Plastic, Expanded Polystyrene/original_20230711_213731.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162414.jpg
+./Plastic, Expanded Polystyrene/original_20230807_202900.jpg
+./Plastic, Expanded Polystyrene/original_20230807_203635.jpg
+./Plastic, Expanded Polystyrene/original_20230807_203030.jpg
+./Plastic, Expanded Polystyrene/original_20230702_205830.jpg
+./Plastic, Expanded Polystyrene/original_20230704_163339.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162354.jpg
+./Plastic, Expanded Polystyrene/original_20230704_161834.jpg
+./Plastic, Expanded Polystyrene/original_20230704_163329.jpg
+./Plastic, Expanded Polystyrene/original_20230704_161942.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162716.jpg
+./Plastic, Expanded Polystyrene/original_20230704_163300.jpg
+./Plastic, Expanded Polystyrene/original_20230707_133444.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162943.jpg
+./Plastic, Expanded Polystyrene/original_20230711_213734.jpg
+./Plastic, Expanded Polystyrene/original_20230807_203640.jpg
+./Plastic, Expanded Polystyrene/original_20230704_163408.jpg
+./Plastic, Expanded Polystyrene/original_20230807_203256.jpg
+./Plastic, Expanded Polystyrene/original_20230711_214206.jpg
+./Plastic, Expanded Polystyrene/original_20230711_213729.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162006.jpg
+./Plastic, Expanded Polystyrene/original_20230711_214208.jpg
+./Plastic, Expanded Polystyrene/original_20230807_202906.jpg
+./Plastic, Expanded Polystyrene/original_20230704_161852.jpg
+./Plastic, Expanded Polystyrene/original_20230704_162449.jpg
+./Plastic, Expanded Polystyrene/original_20230704_161829.jpg
+./Plastic, Expanded Polystyrene/original_20230702_210710.jpg
+./Plastic, PET Cup/original_20230702_175251.jpg
+./Plastic, PET Cup/original_20230702_175049.jpg
+./Plastic, PET Cup/original_20230702_175325.jpg
+./Plastic, PET Cup/original_20230702_175335.jpg
+./Plastic, PET Cup/original_20230702_175249.jpg
+./Plastic, PET Cup/original_20230702_175237.jpg
+./Plastic, PET Cup/original_20230702_175136.jpg
+./Plastic, PET Cup/original_20230702_175116.jpg
+./Plastic, PET Cup/original_20230702_175351.jpg
+./Plastic, PET Cup/original_20230702_174936.jpg
+./Plastic, PET Cup/original_20230702_175329.jpg
+./Plastic, PET Cup/original_20230702_174945.jpg
+./Plastic, PET Cup/original_20230702_175012.jpg
+./Plastic, PET Cup/original_20230702_175057.jpg
+./Plastic, PET Cup/original_20230702_175213.jpg
+./Plastic, PET Cup/original_20230702_175400.jpg
+./Plastic, PET Cup/original_20230702_175156.jpg
+./Plastic, PET Cup/original_20230702_174949.jpg
+./Plastic, PET Cup/original_20230702_175110.jpg
+./Plastic, PET Cup/original_20230702_175038.jpg
+./Plastic, PET Cup/original_20230702_175244.jpg
+./Plastic, PET Cup/original_20230702_175024.jpg
+./Plastic, PET Cup/original_20230702_175311.jpg
+./Plastic, PET Cup/original_20230702_175007.jpg
+./Plastic, PET Cup/original_20230702_175348.jpg
+./Plastic, PET Cup/original_20230702_175241.jpg
+./Plastic, PET Cup/original_20230702_175140.jpg
+./Plastic, PET Cup/original_20230702_175153.jpg
+./Plastic, PET Cup/original_20230702_175017.jpg
+./Plastic, PET Cup/original_20230702_175119.jpg
+./Plastic, PET Cup/original_20230702_175215.jpg
+./Plastic, PET Cup/original_20230702_174954.jpg
+./Plastic, PET Cup/original_20230702_175315.jpg
+./Plastic, PET Cup/original_20230702_175219.jpg
+./Plastic, PET Cup/original_20230702_175204.jpg
+./Plastic, PET Cup/original_20230702_175011.jpg
+./Plastic, PET Cup/original_20230702_175343.jpg
+./Paper, Tissue Paper/original_20230616_212923.jpg
+./Paper, Tissue Paper/original_20230616_213021.jpg
+./Paper, Tissue Paper/original_20230616_212828.jpg
+./Paper, Tissue Paper/original_20230621_142739.jpg
+./Paper, Tissue Paper/original_20230616_194248.jpg
+./Paper, Tissue Paper/original_20230616_185021.jpg
+./Paper, Tissue Paper/original_20230616_213501.jpg
+./Paper, Tissue Paper/original_20230616_213030.jpg
+./Paper, Tissue Paper/original_20230616_194443.jpg
+./Paper, Tissue Paper/original_20230711_213639.jpg
+./Paper, Tissue Paper/original_20230616_213038.jpg
+./Paper, Tissue Paper/original_20230621_142720.jpg
+./Paper, Tissue Paper/original_20230616_185025.jpg
+./Paper, Tissue Paper/original_20230804_195923.jpg
+./Paper, Tissue Paper/original_20230616_195423.jpg
+./Paper, Tissue Paper/original_20230616_194438.jpg
+./Paper, Tissue Paper/original_20230616_213210.jpg
+./Paper, Tissue Paper/original_20230616_213506.jpg
+./Paper, Tissue Paper/original_20230616_212926.jpg
+./Paper, Tissue Paper/original_20230711_213636.jpg
+./Paper, Tissue Paper/original_20230616_213407.jpg
+./Paper, Tissue Paper/original_20230616_184725.jpg
+./Paper, Tissue Paper/original_20230616_213416.jpg
+./Paper, Tissue Paper/original_20230616_194236.jpg
+./Paper, Tissue Paper/original_20230616_184411.jpg
+./Paper, Tissue Paper/original_20230704_163050.jpg
+./Paper, Tissue Paper/original_20230616_184617.jpg
+./Paper, Tissue Paper/original_20230621_142802.jpg
+./Paper, Tissue Paper/original_20230804_195453.jpg
+./Paper, Tissue Paper/original_20230616_213355.jpg
+./Paper, Tissue Paper/original_20230616_185013.jpg
+./Paper, Tissue Paper/original_20230616_213443.jpg
+./Paper, Tissue Paper/original_20230621_142728.jpg
+./Paper, Tissue Paper/original_20230621_142811.jpg
+./Paper, Tissue Paper/original_20230616_212902.jpg
+./Paper, Tissue Paper/original_20230616_212838.jpg
+./Paper, Tissue Paper/original_20230616_213254.jpg
+./Paper, Tissue Paper/original_20230704_161823.jpg
+./Paper, Tissue Paper/original_20230621_142814.jpg
+./Paper, Tissue Paper/original_20230616_184806.jpg
+./Paper, Tissue Paper/original_20230616_213512.jpg
+./Paper, Tissue Paper/original_20230616_194218.jpg
+./Paper, Tissue Paper/original_20230616_184622.jpg
+./Paper, Tissue Paper/original_20230616_212934.jpg
+./Paper, Tissue Paper/original_20230616_213352.jpg
+./Paper, Tissue Paper/original_20230616_184800.jpg
+./Paper, Tissue Paper/original_20230616_184530.jpg
+./Paper, Tissue Paper/original_20230616_184501.jpg
+./Paper, Tissue Paper/original_20230616_212845.jpg
+./Paper, Tissue Paper/original_20230616_212947.jpg
+./Paper, Tissue Paper/original_20230616_184609.jpg
+./Paper, Tissue Paper/original_20230616_194513.jpg
+./Paper, Tissue Paper/original_20230616_213219.jpg
+./Paper, Tissue Paper/original_20230621_142747.jpg
+./Paper, Tissue Paper/original_20230621_142723.jpg
+./Paper, Tissue Paper/original_20230616_194508.jpg
+./Paper, Tissue Paper/original_20230616_213502.jpg
+./Paper, Tissue Paper/original_20230616_195412.jpg
+./Paper, Tissue Paper/original_20230616_185034.jpg
+./Paper, Tissue Paper/original_20230616_213221.jpg
+./Paper, Tissue Paper/original_20230621_142657.jpg
+./Paper, Tissue Paper/original_20230621_142818.jpg
+./Paper, Tissue Paper/original_20230616_213339.jpg
+./Paper, Tissue Paper/original_20230616_213100.jpg
+./Paper, Tissue Paper/original_20230621_142633.jpg
+./Paper, Tissue Paper/original_20230621_142623.jpg
+./Paper, Tissue Paper/original_20230616_194516.jpg
+./Paper, Tissue Paper/original_20230616_213231.jpg
+./Paper, Tissue Paper/original_20230621_142640.jpg
+./Paper, Tissue Paper/original_20230616_185014.jpg
+./Paper, Tissue Paper/original_20230616_185053.jpg
+./Paper, Tissue Paper/original_IMG-20230712-WA0029.jpg
+./Paper, Tissue Paper/original_20230621_142758.jpg
+./Paper, Tissue Paper/original_20230621_142710.jpg
+./Paper, Tissue Paper/original_20230621_142647.jpg
+./Paper, Tissue Paper/original_20230621_142736.jpg
+./Paper, Tissue Paper/original_20230616_213431.jpg
+./Paper, Tissue Paper/original_20230616_184547.jpg
+./Paper, Tissue Paper/original_20230621_142716.jpg
+./Paper, Tissue Paper/original_20230804_195455.jpg
+./Paper, Tissue Paper/original_20230616_184814.jpg
+./Paper, Tissue Paper/original_20230616_213308.jpg
+./Paper, Tissue Paper/original_20230616_213015.jpg
+./Paper, Tissue Paper/original_20230616_185045.jpg
+./Paper, Tissue Paper/original_20230616_213105.jpg
+./Paper, Tissue Paper/original_20230616_213203.jpg
+./Paper, Tissue Paper/original_20230616_213427.jpg
+./Paper, Tissue Paper/original_20230616_194454.jpg
+./Paper, Tissue Paper/original_20230621_142753.jpg
+./Paper, Tissue Paper/original_20230616_194214.jpg
+./Paper, Tissue Paper/original_20230616_213159.jpg
+./Paper, Tissue Paper/original_20230616_184521.jpg
+./Paper, Tissue Paper/original_20230804_195508.jpg
+./Paper, Tissue Paper/original_20230621_142628.jpg
+./Paper, Tissue Paper/original_20230616_194426.jpg
+./Organic, Food Waste/original_20230712_095148.jpg
+./Organic, Food Waste/original_20230803_205752.jpg
+./Organic, Food Waste/original_20230712_095153.jpg
+./Organic, Food Waste/original_20230712_095141.jpg
+./Organic, Food Waste/original_20230803_205803.jpg
+./Organic, Food Waste/original_20230803_205713.jpg
+./Organic, Food Waste/original_20230803_205801.jpg
+./Organic, Food Waste/original_20230807_204516.jpg
+./Organic, Food Waste/original_20230803_205814.jpg
+./Organic, Food Waste/original_20230712_095155.jpg
+./Organic, Food Waste/original_20230804_121651.jpg
+./Organic, Food Waste/original_20230803_204603.jpg
+./Organic, Food Waste/original_20230712_095139.jpg
+./Organic, Food Waste/original_20230803_205741.jpg
+./Organic, Food Waste/original_20230803_211012.jpg
+./Organic, Food Waste/original_20230803_205337.jpg
+./Organic, Food Waste/original_20230803_205807.jpg
+./Organic, Food Waste/original_20230712_095126.jpg
+./Organic, Food Waste/original_20230807_204513.jpg
+./Organic, Food Waste/original_20230803_205805.jpg
+./Organic, Food Waste/original_20230712_095129.jpg
+./Organic, Food Waste/original_20230712_095135.jpg
+./Organic, Food Waste/original_20230712_095150.jpg
+./Organic, Food Waste/original_20230712_095121.jpg
+./Organic, Food Waste/original_20230807_204518.jpg
+./Organic, Food Waste/original_20230803_205759.jpg
+./Organic, Food Waste/original_20230803_211006.jpg
+./Organic, Food Waste/original_20230803_210957.jpg
+./Organic, Food Waste/original_20230712_095116.jpg
+./Organic, Food Waste/original_IMG-20230712-WA0018.jpg
+./Organic, Food Waste/original_20230803_205339.jpg
+./Organic, Food Waste/original_20230712_095119.jpg
+./Organic, Food Waste/original_20230803_205756.jpg
+./Organic, Food Waste/original_20230712_095133.jpg
+./Organic, Food Waste/original_20230807_204506.jpg
+./Plastic, Clear PP Cup/original_20230801_205758.jpg
+./Plastic, Bubble Wrap/original_20230807_204634.jpg
+./Plastic, Starch Bag/original_20230807_202352.jpg
+./Plastic, Starch Bag/original_20230702_210223.jpg
+./Plastic, Starch Bag/original_20230807_202307.jpg
+./Plastic, PP Cutlery/original_20230616_202951.jpg
+./Plastic, PP Cutlery/original_20230616_202807.jpg
+./Plastic, PP Cutlery/original_20230616_200516.jpg
+./Plastic, PP Cutlery/original_20230616_202932.jpg
+./Plastic, PP Cutlery/original_20230616_200530.jpg
+./Plastic, PP Cutlery/original_20230616_202956.jpg
+./Plastic, PP Cutlery/original_20230616_202840.jpg
+./Plastic, PP Cutlery/original_20230616_202850.jpg
+./Plastic, PP Cutlery/original_20230616_202800.jpg
+./Plastic, PP Cutlery/original_20230804_110356.jpg
+./Plastic, PP Cutlery/original_20230616_203851.jpg
+./Plastic, PP Cutlery/original_20230616_202758.jpg
+./Plastic, PP Cutlery/original_20230616_202748.jpg
+./Plastic, PP Cutlery/original_20230616_203817.jpg
+./Plastic, PP Cutlery/original_20230616_200524.jpg
+./Plastic, PP Cutlery/original_20230616_202919.jpg
+./Plastic, PP Cutlery/original_20230616_202729.jpg
+./Plastic, PP Cutlery/original_20230616_203759.jpg
+./Plastic, PP Cutlery/original_20230616_203951.jpg
+./Plastic, PP Cutlery/original_20230616_202746.jpg
+./Plastic, PP Cutlery/original_20230616_204049.jpg
+./Plastic, PP Cutlery/original_20230616_202828.jpg
+./Plastic, PP Cutlery/original_20230616_200520.jpg
+./Plastic, PP Cutlery/original_20230616_202900.jpg
+./Plastic, PP Cutlery/original_20230616_202832.jpg
+./Plastic, PP Cutlery/original_20230616_205346.jpg
+./Plastic, PP Cutlery/original_20230616_203907.jpg
+./Plastic, PP Cutlery/original_20230616_202936.jpg
+./Plastic, PP Cutlery/original_20230616_202904.jpg
+./Plastic, PP Cutlery/original_IMG-20230711-WA0013.jpg
+./Plastic, PP Cutlery/original_20230616_204131.jpg
+./Plastic, PP Cutlery/original_20230616_200505.jpg
+./Plastic, PP Cutlery/original_20230616_202911.jpg
+./Plastic, PP Cutlery/original_20230616_202927.jpg
+./Plastic, PP Cutlery/original_20230616_204040.jpg
+./Plastic, PP Cutlery/original_20230616_200455.jpg
+./Plastic, PP Cutlery/original_20230616_202722.jpg
+./Plastic, PP Cutlery/original_20230616_203004.jpg
+./Plastic, PP Cutlery/original_20230616_203843.jpg
+./Plastic, PP Cutlery/original_20230616_202845.jpg
+./Plastic, PP Cutlery/original_20230616_202751.jpg
+./Plastic, PP Cutlery/original_20230616_203804.jpg
+./Plastic, PP Cutlery/original_20230616_202835.jpg
+./Plastic, PP Cutlery/original_20230616_203743.jpg
+./Plastic, PP Cutlery/original_20230616_202735.jpg
+./Plastic, PP Cutlery/original_20230616_203752.jpg
+./Metal, Aluminium Can/original_IMG-20230712-WA0003.jpg
+./Metal, Aluminium Can/original_20230803_204211.jpg
+./Metal, Aluminium Can/original_20230711_213502.jpg
+./Metal, Aluminium Can/original_20230702_210546.jpg
+./Metal, Aluminium Can/original_20230803_204030.jpg
+./Metal, Aluminium Can/original_20230801_205517.jpg
+./Metal, Aluminium Can/original_20230807_202515.jpg
+./Metal, Aluminium Can/original_20230807_203027.jpg
+./Metal, Aluminium Can/original_20230801_204824.jpg
+./Metal, Aluminium Can/original_20230704_163256.jpg
+./Metal, Aluminium Can/original_20230616_215545.jpg
+./Metal, Aluminium Can/original_20230803_204248.jpg
+./Metal, Aluminium Can/original_20230803_205708.jpg
+./Metal, Aluminium Can/original_20230801_205520.jpg
+./Metal, Aluminium Can/original_20230616_215449.jpg
+./Metal, Aluminium Can/original_20230709_133638.jpg
+./Metal, Aluminium Can/original_20230803_203719.jpg
+./Metal, Aluminium Can/original_20230704_163633.jpg
+./Metal, Aluminium Can/original_20230803_204346.jpg
+./Metal, Aluminium Can/original_20230616_215613.jpg
+./Metal, Aluminium Can/original_20230616_215603.jpg
+./Metal, Aluminium Can/original_20230704_162032.jpg
+./Metal, Aluminium Can/original_20230801_205255.jpg
+./Metal, Aluminium Can/original_20230711_214047.jpg
+./Metal, Aluminium Can/original_20230807_202518.jpg
+./Metal, Aluminium Can/original_20230807_202510.jpg
+./Metal, Aluminium Can/original_20230711_213500.jpg
+./Metal, Aluminium Can/original_20230707_132547.jpg
+./Metal, Aluminium Can/original_IMG-20230712-WA0012.jpg
+./Metal, Aluminium Can/original_20230616_215550.jpg
+./Metal, Aluminium Can/original_20230616_215500.jpg
+./Metal, Aluminium Can/original_20230803_204728.jpg
+./Metal, Aluminium Can/original_IMG-20230712-WA0014.jpg
+./Metal, Aluminium Can/original_20230616_215557.jpg
+./Metal, Aluminium Can/original_IMG-20230712-WA0009.jpg
+./Metal, Aluminium Can/original_20230807_203400.jpg
+./Metal, Aluminium Can/original_20230803_203637.jpg
+./Metal, Aluminium Can/original_20230711_214315.jpg
+./Metal, Aluminium Can/original_20230616_215527.jpg
+./Metal, Aluminium Can/original_20230616_215454.jpg
+./Metal, Aluminium Can/original_20230711_214226.jpg
+./Metal, Aluminium Can/original_20230807_202152.jpg
+./Metal, Aluminium Can/original_IMG-20230712-WA0019.jpg
+./Metal, Aluminium Can/original_20230704_162451.jpg
+./Metal, Aluminium Can/original_IMG-20230712-WA0015.jpg
+./Metal, Aluminium Can/original_20230807_202513.jpg
+./Metal, Aluminium Can/original_20230707_132456.jpg
+./Metal, Aluminium Can/original_20230711_214355.jpg
+./Metal, Aluminium Can/original_20230803_204043.jpg
+./Metal, Aluminium Can/original_20230709_133654.jpg
+./Metal, Aluminium Can/original_20230711_213459.jpg
+./Metal, Aluminium Can/original_20230704_163504.jpg
+./Metal, Aluminium Can/original_20230801_204821.jpg
+./Metal, Aluminium Can/original_20230801_205018.jpg
+./Metal, Aluminium Can/original_20230803_204813.jpg
+./Metal, Aluminium Can/original_20230704_163528.jpg
+./Metal, Aluminium Can/original_20230803_204034.jpg
+./Metal, Aluminium Can/original_20230616_215645.jpg
+./Metal, Aluminium Can/original_20230807_203811.jpg
+./Metal, Aluminium Can/original_20230801_205656.jpg
+./Metal, Aluminium Can/original_20230807_202633.jpg
+./Metal, Aluminium Can/original_20230801_205729.jpg
+./Metal, Aluminium Can/original_20230801_205239.jpg
+./Metal, Aluminium Can/original_20230711_213427.jpg
+./Metal, Aluminium Can/original_20230803_204739.jpg
+./Metal, Aluminium Can/original_20230707_132751.jpg
+./Metal, Aluminium Can/original_20230801_205647.jpg
+./Metal, Aluminium Can/original_20230801_205008.jpg
+./Metal, Aluminium Can/original_20230616_215542.jpg
+./Metal, Aluminium Can/original_20230704_161913.jpg
+./Plastic, HDPE Container/original_20230803_204907.jpg
+./Plastic, HDPE Container/original_20230807_203437.jpg
+./Medical, Face Mask/original_20230803_205503.jpg
+./Paper, Liquid Carton/original_20230623_180623.jpg
+./Paper, Liquid Carton/original_20230623_180827.jpg
+./Paper, Liquid Carton/original_20230623_180531.jpg
+./Paper, Liquid Carton/original_20230623_181120.jpg
+./Paper, Liquid Carton/original_20230623_181201.jpg
+./Paper, Liquid Carton/original_20230623_180559.jpg
+./Paper, Liquid Carton/original_20230623_180744.jpg
+./Paper, Liquid Carton/original_20230623_180555.jpg
+./Paper, Liquid Carton/original_20230623_181038.jpg
+./Paper, Liquid Carton/original_20230623_181045.jpg
+./Paper, Liquid Carton/original_20230623_180226.jpg
+./Paper, Liquid Carton/original_IMG-20230711-WA0018.jpg
+./Paper, Liquid Carton/original_20230807_203440.jpg
+./Paper, Liquid Carton/original_20230623_180535.jpg
+./Paper, Liquid Carton/original_20230804_121903.jpg
+./Paper, Liquid Carton/original_20230623_180445.jpg
+./Paper, Liquid Carton/original_20230623_180729.jpg
+./Paper, Liquid Carton/original_20230623_180237.jpg
+./Paper, Liquid Carton/original_20230623_181026.jpg
+./Paper, Liquid Carton/original_20230623_180755.jpg
+./Paper, Liquid Carton/original_20230623_180517.jpg
+./Paper, Liquid Carton/original_20230623_181054.jpg
+./Paper, Liquid Carton/original_20230623_180611.jpg
+./Paper, Liquid Carton/original_20230623_180940.jpg
+./Paper, Liquid Carton/original_20230623_180918.jpg
+./Paper, Liquid Carton/original_20230623_180946.jpg
+./Paper, Liquid Carton/original_20230623_180802.jpg
+./Paper, Liquid Carton/original_20230801_205023.jpg
+./Paper, Liquid Carton/original_20230623_181231.jpg
+./Paper, Liquid Carton/original_20230623_181255.jpg
+./Paper, Liquid Carton/original_20230623_180659.jpg
+./Paper, Liquid Carton/original_20230623_181100.jpg
+./Paper, Liquid Carton/original_20230623_181142.jpg
+./Paper, Liquid Carton/original_20230623_181106.jpg
+./Paper, Liquid Carton/original_20230623_180540.jpg
+./Paper, Liquid Carton/original_20230623_180829.jpg
+./Paper, Liquid Carton/original_20230623_180949.jpg
+./Paper, Liquid Carton/original_20230623_181214.jpg
+./Paper, Liquid Carton/original_20230623_180305.jpg
+./Paper, Liquid Carton/original_20230623_180736.jpg
+./Paper, Liquid Carton/original_20230623_180644.jpg
+./Paper, Liquid Carton/original_20230623_180636.jpg
+./Paper, Liquid Carton/original_20230623_180931.jpg
+./Paper, Liquid Carton/original_20230623_181112.jpg
+./Paper, Liquid Carton/original_20230623_181222.jpg
+./Paper, Liquid Carton/original_20230623_181151.jpg
+./Paper, Liquid Carton/original_20230623_180902.jpg
+./Paper, Liquid Carton/original_20230623_180312.jpg
+./Paper, Liquid Carton/original_20230623_181228.jpg
+./Paper, Liquid Carton/original_20230623_180956.jpg
+./Paper, Liquid Carton/original_20230623_180909.jpg
+./Paper, Liquid Carton/original_20230623_180650.jpg
+./Paper, Liquid Carton/original_20230623_181147.jpg
+./Paper, Liquid Carton/original_20230623_180214.jpg
+./Paper, Liquid Carton/original_20230623_180809.jpg
+./Paper, Liquid Carton/original_20230623_181144.jpg
+./Paper, Liquid Carton/original_20230623_180511.jpg
+./Paper, Liquid Carton/original_20230623_180906.jpg
+./Paper, Liquid Carton/original_20230623_180506.jpg
+./Paper, Liquid Carton/original_20230623_181011.jpg
+./Paper, Liquid Carton/original_20230711_213349.jpg
+./Paper, Liquid Carton/original_20230623_181258.jpg
+./Paper, Liquid Carton/original_20230623_181322.jpg
+./Paper, Liquid Carton/original_20230623_180833.jpg
+./Paper, Liquid Carton/original_20230623_180751.jpg
+./Paper, Liquid Carton/original_20230623_180453.jpg
+./Paper, Liquid Carton/original_20230623_180548.jpg
+./Paper, Liquid Carton/original_20230623_181155.jpg
+./Paper, Liquid Carton/original_20230623_181206.jpg
+./Paper, Liquid Carton/original_20230623_180655.jpg
+./Paper, Liquid Carton/original_20230623_180837.jpg
+./Paper, Liquid Carton/original_20230623_181124.jpg
+./Paper, Liquid Carton/original_20230623_181021.jpg
+./Paper, Liquid Carton/original_20230623_180741.jpg
+./Plastic, Various PVC Items/original_IMG-20230711-WA0009.jpg
+./Plastic, Various PVC Items/original_20230804_195953.jpg
+./Wood, Solid Wood/original_20230704_162141.jpg
+./Wood, Solid Wood/original_20230807_203646.jpg
+./Wood, Solid Wood/original_20230807_203158.jpg
+./Wood, Solid Wood/original_20230801_210812.jpg
+./Wood, Solid Wood/original_20230704_162459.jpg
+./Wood, Solid Wood/original_20230704_162503.jpg
+./Wood, Solid Wood/original_20230801_205912.jpg
+./Wood, Solid Wood/original_20230803_203914.jpg
+./Wood, Solid Wood/original_20230711_215129.jpg
+./Wood, Solid Wood/original_20230704_162139.jpg
+./Wood, Solid Wood/original_20230711_215132.jpg
+./Wood, Solid Wood/original_20230711_215141.jpg
+./Wood, Solid Wood/original_20230801_210817.jpg
+./Wood, Solid Wood/original_20230801_205348.jpg
+./Wood, Solid Wood/original_20230801_205910.jpg
+./Wood, Solid Wood/original_20230801_210809.jpg
+./Wood, Solid Wood/original_20230807_203644.jpg
+./Wood, Solid Wood/original_20230707_132905.jpg
+./Wood, Solid Wood/original_20230807_203651.jpg
+./Wood, Solid Wood/original_20230711_215139.jpg
+./Other, Cigarette Package/original_20230711_213553.jpg
+./Other, Cigarette Package/original_20230711_214152.jpg
+./Other, Cigarette Package/original_20230801_205311.jpg
+./Other, Cigarette Package/original_20230801_205619.jpg
+./Other, Cigarette Package/original_20230704_162933.jpg
+./Other, Cigarette Package/original_20230704_161916.jpg
+./Other, Cigarette Package/original_20230807_202052.jpg
+./Other, Cigarette Package/original_20230711_213813.jpg
+./Other, Cigarette Package/original_20230803_203828.jpg
+./Other, Cigarette Package/original_20230711_214150.jpg
+./Other, Cigarette Package/original_20230801_205425.jpg
+./Other, Cigarette Package/original_20230801_205354.jpg
+./Other, Cigarette Package/original_20230704_163510.jpg
+./Other, Cigarette Package/original_20230803_204508.jpg
+./Other, Cigarette Package/original_20230711_213551.jpg
+./Other, Cigarette Package/original_20230707_132820.jpg
+./Other, Cigarette Package/original_20230702_210348.jpg
+./Other, Cigarette Package/original_20230803_204221.jpg
+./Other, Cigarette Package/original_20230801_205158.jpg
+./Other, Cigarette Package/original_20230801_205618.jpg
+./Other, Cigarette Package/original_20230702_210551.jpg
+./Medical, Rubber Glove/original_20230807_202554.jpg
+./Medical, Rubber Glove/original_20230807_202553.jpg
+./Plastic, Clear PP Food Container/original_IMG-20230711-WA0010.jpg
+./Metal, Tin Can/original_20230616_220012.jpg
+./Metal, Tin Can/original_20230616_215930.jpg
+./Metal, Tin Can/original_20230616_220047.jpg
+./Metal, Tin Can/original_20230616_220107.jpg
+./Metal, Tin Can/original_20230704_163345.jpg
+./Metal, Tin Can/original_20230616_220017.jpg
+./Metal, Tin Can/original_20230616_215958.jpg
+./Metal, Tin Can/original_20230616_215919.jpg
+./Metal, Tin Can/original_20230616_220130.jpg
+./Metal, Tin Can/original_20230616_220113.jpg
+./Metal, Tin Can/original_20230616_220038.jpg
+./Metal, Tin Can/original_20230616_215927.jpg
+./Metal, Tin Can/original_20230616_220110.jpg
+./Metal, Tin Can/original_20230616_220051.jpg
+./Metal, Tin Can/original_20230616_215934.jpg
+./Metal, Tin Can/original_20230616_215923.jpg
+./Metal, Tin Can/original_20230616_220125.jpg
+./Metal, Tin Can/original_20230616_220133.jpg
+./Metal, Tin Can/original_20230616_215954.jpg
+./Metal, Tin Can/original_20230616_215946.jpg
+./Metal, Tin Can/original_20230616_220032.jpg
+./Metal, Tin Can/original_20230616_220009.jpg
+./Plastic, PP Pot/original_20230801_205336.jpg
+./Plastic, PP Pot/original_20230801_205802.jpg
+./Plastic, PP Pot/original_20230711_213618.jpg
+./Plastic, PP Pot/original_20230711_213602.jpg
+./Plastic, PP Pot/original_20230801_205430.jpg
+./Plastic, PP Pot/original_20230711_213610.jpg
+./Plastic, PP Pot/original_20230711_213608.jpg
+./Plastic, PP Pot/original_20230711_213904.jpg
+./Plastic, PP Pot/original_20230711_213624.jpg
+./Plastic, PP Pot/original_20230801_205248.jpg
+./Plastic, PP Pot/original_20230801_205338.jpg
+./Plastic, PP Pot/original_20230711_213616.jpg
+./Plastic, PP Pot/original_20230711_213543.jpg
+./Plastic, PP Film/original_20230704_163735.jpg
+./Plastic, PP Film/original_20230616_221055.jpg
+./Plastic, PP Film/original_IMG-20230711-WA0005.jpg
+./Plastic, PP Film/original_20230616_221134.jpg
+./Plastic, PP Film/original_20230705_110722.jpg
+./Plastic, PP Film/original_20230616_221100.jpg
+./Plastic, PP Film/original_20230705_110702.jpg
+./Plastic, PP Film/original_20230616_221025.jpg
+./Plastic, PP Film/original_20230803_204534.jpg
+./Plastic, PP Film/original_20230616_220749.jpg
+./Plastic, PP Film/original_20230807_201945.jpg
+./Plastic, PP Film/original_20230616_221051.jpg
+./Plastic, PP Film/original_20230616_221119.jpg
+./Plastic, PP Film/original_20230707_132153.jpg
+./Plastic, PP Film/original_20230711_213150.jpg
+./Plastic, PP Film/original_IMG-20230711-WA0019.jpg
+./Plastic, PP Film/original_20230803_205454.jpg
+./Plastic, PP Film/original_20230616_221000.jpg
+./Plastic, PP Film/original_20230616_221104.jpg
+./Plastic, PP Film/original_20230711_213337.jpg
+./Plastic, PP Film/original_20230705_110646.jpg
+./Plastic, PP Film/original_20230616_220706.jpg
+./Plastic, PP Film/original_20230704_162820.jpg
+./Plastic, PP Film/original_20230616_220715.jpg
+./Plastic, PP Film/original_20230705_110657.jpg
+./Plastic, PP Film/original_20230616_220717.jpg
+./Plastic, PP Film/original_20230705_110717.jpg
+./Plastic, PP Film/original_20230707_132512.jpg
+./Plastic, PP Film/original_20230705_110736.jpg
+./Plastic, PP Film/original_20230616_220947.jpg
+./Plastic, PP Film/original_20230616_220826.jpg
+./Plastic, PP Film/original_20230705_110642.jpg
+./Plastic, PP Film/original_20230616_220801.jpg
+./Plastic, PP Film/original_20230801_205001.jpg
+./Plastic, PP Film/original_20230616_220849.jpg
+./Plastic, PP Film/original_IMG-20230711-WA0016.jpg
+./Plastic, PP Film/original_20230616_220816.jpg
+./Plastic, PP Film/original_20230705_110608.jpg
+./Plastic, PP Film/original_20230616_221035.jpg
+./Plastic, PP Film/original_20230705_110706.jpg
+./Plastic, PP Film/original_20230616_220855.jpg
+./Plastic, PP Film/original_20230705_110631.jpg
+./Plastic, PP Film/original_20230616_221126.jpg
+./Plastic, PP Film/original_20230616_220659.jpg
+./Plastic, PP Film/original_20230616_221114.jpg
+./Plastic, PP Film/original_20230803_205313.jpg
+./Plastic, PP Film/original_20230616_221014.jpg
+./Plastic, PP Film/original_20230705_110736(0).jpg
+./Plastic, PP Film/original_20230616_221031.jpg
+./Plastic, PP Film/original_20230705_110725.jpg
+./Plastic, PP Film/original_20230705_110731.jpg
+./Plastic, PP Film/original_20230616_220834.jpg
+./Plastic, PP Film/original_20230616_220938.jpg
+./Plastic, PP Film/original_20230616_221005.jpg
+./Plastic, PP Film/original_20230711_213222.jpg
+./Plastic, PP Film/original_20230616_220729.jpg
+./Plastic, PP Film/original_20230705_110601.jpg
+./Plastic, PP Film/original_20230705_110739.jpg
+./Plastic, PP Film/original_20230705_110614.jpg
+./Paper, Stationery/original_20230616_191036.jpg
+./Paper, Stationery/original_20230711_213000.jpg
+./Paper, Stationery/original_20230616_190648.jpg
+./Paper, Stationery/original_20230711_213757.jpg
+./Paper, Stationery/original_20230616_191020.jpg
+./Paper, Stationery/original_20230704_161452.jpg
+./Paper, Stationery/original_20230616_191014.jpg
+./Paper, Stationery/original_20230616_190601.jpg
+./Paper, Stationery/original_20230711_213657.jpg
+./Paper, Stationery/original_20230616_191045.jpg
+./Paper, Stationery/original_20230711_213800.jpg
+./Paper, Stationery/original_20230803_204741.jpg
+./Paper, Stationery/original_20230616_190737.jpg
+./Paper, Stationery/original_20230616_190549.jpg
+./Paper, Stationery/original_20230711_212959.jpg
+./Paper, Stationery/original_20230616_190543.jpg
+./Paper, Stationery/original_20230711_215526.jpg
+./Paper, Stationery/original_20230616_190612.jpg
+./Paper, Stationery/original_20230616_190627.jpg
+./Paper, Stationery/original_20230616_191005.jpg
+./Paper, Stationery/original_20230704_162629.jpg
+./Paper, Stationery/original_IMG-20230704-WA0002.jpg
+./Paper, Stationery/original_20230616_190517.jpg
+./Paper, Stationery/original_20230803_204203.jpg
+./Paper, Stationery/original_20230616_191031.jpg
+./Paper, Stationery/original_20230616_190708.jpg
+./Paper, Stationery/original_20230616_190533.jpg
+./Paper, Stationery/original_20230616_190711.jpg
+./Paper, Stationery/original_20230616_190639.jpg
+./Paper, Stationery/original_20230616_190700.jpg
+./Paper, Stationery/original_20230616_190606.jpg
+./Paper, Stationery/original_20230616_190746.jpg
+./Paper, Stationery/original_20230804_195645.jpg
+./Paper, Paper Bag/original_20230616_195051.jpg
+./Paper, Paper Bag/original_20230702_173150.jpg
+./Paper, Paper Bag/original_20230702_173016.jpg
+./Paper, Paper Bag/original_20230702_173158.jpg
+./Paper, Paper Bag/original_20230702_173111.jpg
+./Paper, Paper Bag/original_20230702_172743.jpg
+./Paper, Paper Bag/original_20230702_173048.jpg
+./Paper, Paper Bag/original_20230617_082708.jpg
+./Paper, Paper Bag/original_20230617_083039.jpg
+./Paper, Paper Bag/original_20230702_172958.jpg
+./Paper, Paper Bag/original_20230702_173216.jpg
+./Paper, Paper Bag/original_20230702_173121.jpg
+./Paper, Paper Bag/original_20230702_172833.jpg
+./Paper, Paper Bag/original_20230617_082738.jpg
+./Paper, Paper Bag/original_20230702_172935.jpg
+./Paper, Paper Bag/original_20230616_202651.jpg
+./Paper, Paper Bag/original_20230702_172839.jpg
+./Paper, Paper Bag/original_20230617_083049.jpg
+./Paper, Paper Bag/original_20230702_172759.jpg
+./Paper, Paper Bag/original_20230707_160757.jpg
+./Paper, Paper Bag/original_20230617_082930.jpg
+./Paper, Paper Bag/original_20230702_173037.jpg
+./Paper, Paper Bag/original_20230616_195115.jpg
+./Paper, Paper Bag/original_20230617_082927.jpg
+./Paper, Paper Bag/original_20230702_172847.jpg
+./Paper, Paper Bag/original_20230617_082621.jpg
+./Paper, Paper Bag/original_20230616_195106.jpg
+./Paper, Paper Bag/original_20230616_202706.jpg
+./Paper, Paper Bag/original_20230617_083023.jpg
+./Paper, Paper Bag/original_20230617_082647.jpg
+./Paper, Paper Bag/original_20230702_173219.jpg
+./Paper, Paper Bag/original_20230702_173021.jpg
+./Paper, Paper Bag/original_20230617_082909.jpg
+./Paper, Paper Bag/original_20230702_173056.jpg
+./Paper, Paper Bag/original_20230617_083128.jpg
+./Paper, Paper Bag/original_20230702_172907.jpg
+./Paper, Paper Bag/original_20230702_173235.jpg
+./Paper, Paper Bag/original_20230617_082952.jpg
+./Paper, Paper Bag/original_20230617_082914.jpg
+./Paper, Paper Bag/original_20230617_083044.jpg
+./Paper, Paper Bag/original_20230617_083032.jpg
+./Paper, Paper Bag/original_20230702_172831.jpg
+./Paper, Paper Bag/original_20230702_173005.jpg
+./Paper, Paper Bag/original_20230702_172829.jpg
+./Paper, Paper Bag/original_20230702_172914.jpg
+./Paper, Paper Bag/original_20230617_082657.jpg
+./Paper, Paper Bag/original_20230616_202659.jpg
+./Paper, Paper Bag/original_20230617_083053.jpg
+./Paper, Paper Bag/original_20230617_083147.jpg
+./Paper, Paper Bag/original_20230617_082839.jpg
+./Paper, Paper Bag/original_20230617_082742.jpg
+./Paper, Paper Bag/original_20230617_082746.jpg
+./Paper, Paper Bag/original_20230702_172752.jpg
+./Paper, Paper Bag/original_20230617_083101.jpg
+./Paper, Paper Bag/original_20230702_172948.jpg
+./Paper, Paper Bag/original_20230617_082847.jpg
+./Paper, Paper Bag/original_20230617_082946.jpg
+./Paper, Paper Bag/original_20230616_195110.jpg
+./Paper, Paper Bag/original_20230702_172804.jpg
+./Paper, Paper Bag/original_20230617_083137.jpg
+./Paper, Paper Bag/original_20230702_172824.jpg
+./Paper, Paper Bag/original_20230617_083016.jpg
+./Paper, Paper Bag/original_20230702_172943.jpg
+./Paper, Paper Bag/original_20230702_172816.jpg
+./Paper, Paper Bag/original_20230617_082947.jpg
+./Paper, Paper Bag/original_20230617_082844.jpg
+./Paper, Paper Bag/original_20230707_160802.jpg
+./Wood, Popsicle Stick/original_20230707_160851.jpg
+./Wood, Popsicle Stick/original_20230707_160843.jpg
+./Wood, Popsicle Stick/original_20230711_214418.jpg
+./Wood, Popsicle Stick/original_20230804_115907.jpg
+./Wood, Popsicle Stick/original_20230707_160904.jpg
+./Wood, Popsicle Stick/original_20230711_214420.jpg
+./Wood, Popsicle Stick/original_20230711_213039.jpg
+./Wood, Popsicle Stick/original_20230707_160908.jpg
+./Wood, Popsicle Stick/original_20230707_160837.jpg
+./Wood, Popsicle Stick/original_20230707_160912.jpg
+./Plastic, PS Container/original_20230803_204306.jpg
+./Plastic, PS Container/original_20230803_204304.jpg
+./Plastic, PS Container/original_20230803_203655.jpg
+./Plastic, PS Container/original_20230803_203706.jpg
+./Metal, Aluminium Foil and Packaging/original_20230801_204313.jpg
+./Metal, Aluminium Foil and Packaging/original_20230801_204321.jpg
+./Metal, Aluminium Foil and Packaging/original_20230804_110149.jpg
+./Wood, Wooden Utensil/original_20230707_184918.jpg
+./Glass, Clear Glass/original_20230616_215139.jpg
+./Glass, Clear Glass/original_20230616_214819.jpg
+./Glass, Clear Glass/original_20230616_214943.jpg
+./Glass, Clear Glass/original_20230616_215210.jpg
+./Glass, Clear Glass/original_20230616_215022.jpg
+./Glass, Clear Glass/original_20230616_214902.jpg
+./Glass, Clear Glass/original_20230616_215056.jpg
+./Glass, Clear Glass/original_20230616_215226.jpg
+./Glass, Clear Glass/original_20230616_215230.jpg
+./Glass, Clear Glass/original_20230711_213134.jpg
+./Glass, Clear Glass/original_20230616_214756.jpg
+./Glass, Clear Glass/original_20230711_213124.jpg
+./Glass, Clear Glass/original_20230704_163400.jpg
+./Glass, Clear Glass/original_20230616_214937.jpg
+./Glass, Clear Glass/original_20230616_214823.jpg
+./Glass, Clear Glass/original_20230616_215228.jpg
+./Glass, Clear Glass/original_20230616_215001.jpg
+./Glass, Clear Glass/original_20230616_214752.jpg
+./Glass, Clear Glass/original_20230616_215205.jpg
+./Glass, Clear Glass/original_20230616_214905.jpg
+./Glass, Clear Glass/original_20230616_215242.jpg
+./Glass, Clear Glass/original_20230616_214954.jpg
+./Glass, Clear Glass/original_20230616_215135.jpg
+./Glass, Clear Glass/original_20230616_214948.jpg
+./Glass, Clear Glass/original_20230616_215201.jpg
+./Glass, Clear Glass/original_20230616_214812.jpg
+./Glass, Clear Glass/original_20230616_215221.jpg
+./Glass, Clear Glass/original_20230616_215250.jpg
+./Glass, Clear Glass/original_20230616_215223.jpg
+./Glass, Clear Glass/original_20230616_215015.jpg
+./Glass, Clear Glass/original_20230616_215107.jpg
+./Glass, Clear Glass/original_20230616_214900.jpg
+./Glass, Clear Glass/original_20230616_215006.jpg
+./Glass, Clear Glass/original_20230616_215158.jpg
+./Glass, Clear Glass/original_20230616_215019.jpg
+./Glass, Clear Glass/original_20230616_215120.jpg
+./Glass, Clear Glass/original_20230616_215144.jpg
+./Plastic, LDPE Shopping Bag/original_20230801_205421.jpg
+./Plastic, LDPE Shopping Bag/original_20230711_213655.jpg
+./Plastic, Plastic Bottle Cap/original_20230807_202301.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181338.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_190139.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181401.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_190154.jpg
+./Plastic, Plastic Bottle Cap/original_IMG-20230712-WA0020.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_190121.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_190131.jpg
+./Plastic, Plastic Bottle Cap/original_IMG-20230711-WA0017.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181430.jpg
+./Plastic, Plastic Bottle Cap/original_IMG-20230712-WA0021.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181351.jpg
+./Plastic, Plastic Bottle Cap/original_20230804_121621.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181417.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_190125.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181410.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_190105.jpg
+./Plastic, Plastic Bottle Cap/original_20230804_195907.jpg
+./Plastic, Plastic Bottle Cap/original_IMG-20230712-WA0023.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181341.jpg
+./Plastic, Plastic Bottle Cap/original_20230801_205731.jpg
+./Plastic, Plastic Bottle Cap/original_IMG-20230711-WA0003.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_193817.jpg
+./Plastic, Plastic Bottle Cap/original_20230704_163224.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181354.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_190148.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_190155.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_190136.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181419.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_190113.jpg
+./Plastic, Plastic Bottle Cap/original_20230616_193823.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181358.jpg
+./Plastic, Plastic Bottle Cap/original_20230704_163357.jpg
+./Plastic, Plastic Bottle Cap/original_20230704_163428.jpg
+./Plastic, Plastic Bottle Cap/original_20230804_195443.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181434.jpg
+./Plastic, Plastic Bottle Cap/original_20230623_181407.jpg
+./Plastic, Plastic Bottle Cap/original_20230804_085254.jpg
+./Plastic, Plastic Bottle Cap/original_20230804_195910.jpg
+./Plastic, Plastic Bottle Cap/original_20230711_213009.jpg
+./Glass, Green Glass/original_20230711_213120.jpg
+./Glass, Green Glass/original_20230711_213127.jpg
+./Glass, Green Glass/original_20230803_204227.jpg
+./Glass, Green Glass/original_20230803_204832.jpg
+./Glass, Green Glass/original_20230711_213119.jpg
+./Glass, Green Glass/original_20230711_213131.jpg
+./Glass, Green Glass/original_20230711_213122.jpg
+./Glass, Green Glass/original_20230711_213130.jpg
+./Glass, Green Glass/original_IMG-20230712-WA0024.jpg
+./Glass, Green Glass/original_20230807_202028.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230801_205721.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230804_200013.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230803_204944.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230712-WA0007.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230711-WA0011.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230803_204928.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230704_163242.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230803_204914.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230711_213148.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230712-WA0004.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230712-WA0030.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230711-WA0014.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230704_163507.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230702_193417.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230711_213153.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230711-WA0007.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230707_132505.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230807_201839.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230712-WA0010.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230711-WA0008.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230801_204737.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230711-WA0004.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230712-WA0017.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230801_204736.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230712-WA0027.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230712-WA0028.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230803_204448.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230704_162836.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230709_133650.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230711-WA0015.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230803_203712.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230712-WA0016.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230711-WA0012.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230712-WA0013.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230704_163443.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230803_204653.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230707_132806.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230711_213330.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230711-WA0006.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230807_201750.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230803_204234.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230803_204933.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230801_204511.jpg
+./Metal, Aluminium Pouch or Wrap/original_20230803_204824.jpg
+./Metal, Aluminium Pouch or Wrap/original_IMG-20230711-WA0001.jpg
+./Glass, Brown Glass/original_20230803_204052.jpg
+./Glass, Brown Glass/original_20230803_205212.jpg
+./Plastic, PVC Pipe/original_20230807_202731.jpg
+./Plastic, PVC Pipe/original_20230704_163642.jpg
+./Plastic, PVC Pipe/original_20230704_162348.jpg
+./Plastic, PVC Pipe/original_20230807_202735.jpg
+./Plastic, PVC Pipe/original_20230807_202737.jpg
+./Paper, Paper Straw/original_20230702_174714.jpg
+./Paper, Paper Straw/original_20230702_174900.jpg
+./Paper, Paper Straw/original_20230702_174710.jpg
+./Paper, Paper Straw/original_20230702_174809.jpg
+./Paper, Paper Straw/original_20230702_174724.jpg
+./Paper, Paper Straw/original_20230702_174726.jpg
+./Paper, Paper Straw/original_20230707_160745.jpg
+./Paper, Paper Straw/original_20230702_174913.jpg
+./Paper, Paper Straw/original_20230702_174750.jpg
+./Paper, Paper Straw/original_20230702_174813.jpg
+./Paper, Paper Straw/original_20230702_174758.jpg
+./Paper, Paper Straw/original_20230702_174904.jpg
+./Paper, Paper Straw/original_20230702_174857.jpg
+./Paper, Paper Straw/original_20230702_174849.jpg
+./Paper, Paper Straw/original_20230702_174712.jpg
+./Paper, Paper Straw/original_20230702_174706.jpg
+./Paper, Paper Straw/original_20230702_174731.jpg
+./Paper, Paper Straw/original_20230702_174827.jpg
+./Paper, Paper Straw/original_20230702_174741.jpg
+./Paper, Paper Straw/original_20230702_174836.jpg
+./Paper, Paper Straw/original_20230702_174843.jpg
+./Paper, Paper Straw/original_20230702_174908.jpg
+./Paper, Paper Straw/original_20230707_160828.jpg
+./Paper, Paper Straw/original_20230702_174822.jpg
+./Glass, Green Glass Shards/original_20230807_202044.jpg
+./Glass, Green Glass Shards/original_20230807_202040.jpg
+./Plastic, PP Straw/original_20230804_121611.jpg
+./Glass, Clear Glass Shards/original_20230804_195434.jpg
+./Glass, Clear Glass Shards/original_20230804_195534.jpg
+./Glass, Clear Glass Shards/original_20230804_195530.jpg
+./Glass, Clear Glass Shards/original_20230804_195525.jpg
+./Paper, Cardboard Cup/original_20230702_222337.jpg
+./Paper, Cardboard Cup/original_20230702_222837.jpg
+./Paper, Cardboard Cup/original_20230702_222931.jpg
+./Paper, Cardboard Cup/original_20230702_222923.jpg
+./Paper, Cardboard Cup/original_20230702_222823.jpg
+./Paper, Cardboard Cup/original_20230702_222524.jpg
+./Paper, Cardboard Cup/original_20230702_222808.jpg
+./Paper, Cardboard Cup/original_20230807_203238.jpg
+./Paper, Cardboard Cup/original_20230711_213244.jpg
+./Paper, Cardboard Cup/original_20230702_222820.jpg
+./Paper, Cardboard Cup/original_20230702_222557.jpg
+./Paper, Cardboard Cup/original_20230702_222912.jpg
+./Paper, Cardboard Cup/original_20230702_222851.jpg
+./Paper, Cardboard Cup/original_20230702_222339.jpg
+./Paper, Cardboard Cup/original_20230702_222129(0).jpg
+./Paper, Cardboard Cup/original_20230702_222727.jpg
+./Paper, Cardboard Cup/original_20230702_222541.jpg
+./Paper, Cardboard Cup/original_20230702_222422.jpg
+./Paper, Cardboard Cup/original_20230702_222206.jpg
+./Paper, Cardboard Cup/original_20230702_222307.jpg
+./Paper, Cardboard Cup/original_20230702_222425.jpg
+./Paper, Cardboard Cup/original_20230702_222546.jpg
+./Paper, Cardboard Cup/original_20230702_222429.jpg
+./Paper, Cardboard Cup/original_20230711_213840.jpg
+./Paper, Cardboard Cup/original_20230702_193408.jpg
+./Paper, Cardboard Cup/original_20230702_222358.jpg
+./Paper, Cardboard Cup/original_20230702_222327.jpg
+./Paper, Cardboard Cup/original_20230702_222607.jpg
+./Paper, Cardboard Cup/original_20230702_222320.jpg
+./Paper, Cardboard Cup/original_20230702_222316.jpg
+./Paper, Cardboard Cup/original_20230702_222724.jpg
+./Paper, Cardboard Cup/original_20230801_205756.jpg
+./Paper, Cardboard Cup/original_20230702_222516.jpg
+./Paper, Cardboard Cup/original_20230711_214516.jpg
+./Paper, Cardboard Cup/original_20230702_222309.jpg
+./Paper, Cardboard Cup/original_20230702_193413.jpg
+./Paper, Cardboard Cup/original_20230702_222406.jpg
+./Paper, Cardboard Cup/original_20230801_205725.jpg
+./Paper, Cardboard Cup/original_20230702_222459.jpg
+./Paper, Cardboard Cup/original_20230711_213340.jpg
+./Paper, Cardboard Cup/original_20230702_222149.jpg
+./Paper, Cardboard Cup/original_20230702_222412.jpg
+./Paper, Cardboard Cup/original_20230702_222900.jpg
+./Paper, Cardboard Cup/original_20230702_222218.jpg
+./Paper, Cardboard Cup/original_20230702_222333.jpg
+./Paper, Cardboard Cup/original_20230702_222552.jpg
+./Paper, Cardboard Cup/original_20230702_193406.jpg
+./Paper, Cardboard Cup/original_20230702_222343.jpg
+./Paper, Cardboard Cup/original_20230702_222714.jpg
+./Paper, Cardboard Cup/original_20230807_202448.jpg
+./Paper, Cardboard Cup/original_20230702_222519.jpg
+./Paper, Cardboard Cup/original_20230711_214212.jpg
+./Paper, Cardboard Cup/original_20230702_222624.jpg
+./Paper, Cardboard Cup/original_20230702_222402.jpg
+./Paper, Cardboard Cup/original_20230702_222856.jpg
+./Paper, Cardboard Cup/original_20230702_222732.jpg
+./Paper, Cardboard Cup/original_20230807_202014.jpg
+./Paper, Cardboard Cup/original_20230702_222438.jpg
+./Paper, Cardboard Cup/original_20230804_121555.jpg
+./Paper, Cardboard Cup/original_20230702_222631.jpg
+./Paper, Cardboard Cup/original_20230702_222834.jpg
+./Paper, Cardboard Cup/original_20230702_222742.jpg
+./Paper, Cardboard Cup/original_20230702_222146.jpg
+./Paper, Cardboard Cup/original_20230702_222603.jpg
+./Paper, Cardboard Cup/original_20230702_222750.jpg
+./Paper, Cardboard Cup/original_20230702_222735.jpg
+./Paper, Cardboard Cup/original_20230702_222756.jpg
+./Paper, Cardboard Cup/original_20230702_222508.jpg
+./Paper, Cardboard Cup/original_20230702_222245.jpg
+./Paper, Cardboard Cup/original_20230702_222427.jpg
+./Paper, Cardboard Cup/original_20230807_202016.jpg
+./Paper, Cardboard Cup/original_20230803_204954.jpg
+./Paper, Cardboard Cup/original_20230711_213412.jpg
+./Paper, Cardboard Cup/original_20230711_213747.jpg
+./Paper, Cardboard Cup/original_20230702_222453.jpg
+./Paper, Cardboard Cup/original_20230702_222433.jpg
+./Paper, Cardboard Cup/original_20230711_213408.jpg
+./Paper, Cardboard Cup/original_20230711_213251.jpg
+./Paper, Cardboard Cup/original_20230702_222719.jpg
+./Paper, Cardboard Cup/original_20230702_222212.jpg
+./Paper, Cardboard Cup/original_20230807_202112.jpg
+./Paper, Cardboard Cup/original_20230702_222138.jpg
+./Paper, Cardboard Cup/original_20230702_222802.jpg
+./Paper, Cardboard Cup/original_20230702_222436.jpg
+./Paper, Cardboard Cup/original_20230711_213844.jpg
+./Paper, Cardboard Cup/original_20230702_222224.jpg
+./Paper, Cardboard Cup/original_20230711_213744.jpg
+./Paper, Cardboard Cup/original_20230702_222443.jpg
+./Paper, Cardboard Cup/original_20230702_222235.jpg
+./Paper, Cardboard Cup/original_20230702_222418.jpg
+./Paper, Cardboard Cup/original_20230702_222918.jpg
+./Paper, Cardboard Cup/original_20230702_222240.jpg
+./Paper, Cardboard Cup/original_20230711_214216.jpg
+./Paper, Cardboard Cup/original_20230702_222129.jpg
+./Paper, Cardboard Cup/original_20230702_222536.jpg
+./Paper, Cardboard Cup/original_20230702_222251.jpg
+./Paper, Cardboard Cup/original_20230702_222738.jpg
+./Paper, Cardboard Cup/original_20230702_222928.jpg
+./Paper, Cardboard Cup/original_20230702_222829.jpg
+./Paper, Cardboard Cup/original_20230702_222504.jpg
+./Paper, Cardboard Cup/original_20230807_204441.jpg
+./Paper, Cardboard Cup/original_20230702_222814.jpg
+./Paper, Cardboard Cup/original_20230804_115933.jpg
+./Paper, Cardboard Cup/original_20230807_202824.jpg
+./Textile, Wet Wipes/original_20230803_204319.jpg
+./Textile, Wet Wipes/original_20230803_204457.jpg
+./Textile, Wet Wipes/original_20230804_110358.jpg
+./Textile, Wet Wipes/original_20230804_121634.jpg
+./Textile, Wet Wipes/original_20230803_203903.jpg
+./Textile, Wet Wipes/original_20230804_110615.jpg
+./Textile, Wet Wipes/original_20230704_163049.jpg
+./Textile, Wet Wipes/original_20230803_204441.jpg
+./Textile, Wet Wipes/original_20230807_204545.jpg
+./Textile, Wet Wipes/original_20230804_195542.jpg
+./Textile, Wet Wipes/original_20230803_204426.jpg
+./Wood, Wooden Stick/original_20230803_205215.jpg
+./Wood, Wooden Stick/original_20230803_205242.jpg
+./Wood, Wooden Stick/original_20230804_121846.jpg
+./Other, Baby Food Pouch/original_20230801_205451.jpg
+./Paper, Newspaper or Magazine/original_20230616_195725.jpg
+./Paper, Newspaper or Magazine/original_20230616_195632.jpg
+./Paper, Newspaper or Magazine/original_20230616_195714.jpg
+./Paper, Newspaper or Magazine/original_20230616_195639.jpg
+./Paper, Newspaper or Magazine/original_20230804_121548.jpg
+./Paper, Newspaper or Magazine/original_20230616_195628.jpg
+./Paper, Newspaper or Magazine/original_20230616_195701.jpg
+./Paper, Newspaper or Magazine/original_20230616_195707.jpg
+./Paper, Newspaper or Magazine/original_20230616_195648.jpg
