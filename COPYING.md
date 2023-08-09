@@ -1,18 +1,25 @@
-Unless otherwise stated, the software (source code) in this repository is licenced under the GNU General Public License.
-A copy of the licence is located in the file `LICENCE-GNU-GPL.md` in this directory.
- 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+Unless otherwise stated, the software (source code) in this repository is licenced under the GNU Affero General Public License, with an additional permission in section 7.
+A copy of the licence is located in the file `LICENCE-GNU-AGPL.md` in this directory.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+> This program is free software, you can redistribute it and/or modify
+it under the terms of GNU Affero General Public License
+as published by the Free Software Foundation, either version 3
+of the License, or (at your option) any later version.
 
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+> This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+or FITNESS FOR A PARTICULAR PURPOSE.  See the
+General Public License for more details.
+
+> You should have received a copy of the the GNU Affero
+General Public License, along with this program. If not, see
+<https://www.gnu.org/licenses/>.
+
+> ##### Additional permission under the GNU Affero GPL version 3 section 7:
+> If you modify this program, or any covered work, by linking or
+combining it with other code, such other code is not for that reason
+alone subject to any of the requirements of the GNU Affero GPL
+version 3.
 
 Unless otherwise stated, the annotations in this repository are dual-licensed under either of these licences:
 
