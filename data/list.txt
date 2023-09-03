@@ -402,6 +402,7 @@
 ./Plastic, Various PVC Items/original_20230804_195953.jpg
 ./Plastic, Various PVC Items/original_IMG-20230711-WA0009.jpg
 ./Plastic, Clear PP Cup/original_20230801_205758.jpg
+./Plastic, Clear PP Cup/original_20230822_125939.jpg
 ./Wood, Wooden Utensil/original_20230707_184918.jpg
 ./Plastic, Bubble Wrap/original_20230807_204634.jpg
 ./Plastic, HDPE Bottle/original_20230807_203430.jpg
@@ -1188,6 +1189,16 @@
 ./Paper, Small Cardboard Packaging/original_20230804_121019.jpg
 ./Paper, Small Cardboard Packaging/original_20230801_211353.jpg
 ./Plastic, Clear PP Food Container/original_IMG-20230711-WA0010.jpg
+./Plastic, Clear PP Food Container/original_20230822_125619.jpg
+./Paper, Pulp Egg Container/original_20230826_122757.jpg
+./Paper, Pulp Egg Container/original_20230826_123813.jpg
+./Paper, Pulp Egg Container/original_20230826_123700.jpg
+./Paper, Pulp Egg Container/original_20230826_123810.jpg
+./Paper, Pulp Egg Container/original_20230826_123804.jpg
+./Paper, Pulp Egg Container/original_20230826_123711.jpg
+./Paper, Pulp Egg Container/original_20230826_123807.jpg
+./Paper, Pulp Egg Container/original_20230826_123802.jpg
+./Paper, Pulp Egg Container/original_20230826_123656.jpg
 ./Textile, Wet Wipes/original_20230803_203903.jpg
 ./Textile, Wet Wipes/original_20230803_204426.jpg
 ./Textile, Wet Wipes/original_20230804_110615.jpg
@@ -1222,6 +1233,7 @@
 ./Plastic, Expanded Polystyrene/original_20230704_163621.jpg
 ./Plastic, Expanded Polystyrene/original_20230704_162449.jpg
 ./Plastic, Expanded Polystyrene/original_20230704_161832.jpg
+./Plastic, Expanded Polystyrene/original_20230822_125707.jpg
 ./Plastic, Expanded Polystyrene/original_20230704_161834.jpg
 ./Plastic, Expanded Polystyrene/original_20230711_214208.jpg
 ./Plastic, Expanded Polystyrene/original_20230704_162414.jpg
@@ -1317,6 +1329,7 @@
 ./Paper, Cardboard Cup/original_20230702_222735.jpg
 ./Paper, Cardboard Cup/original_20230702_222516.jpg
 ./Paper, Cardboard Cup/original_20230702_222129(0).jpg
+./Paper, Cardboard Cup/original_20230822_125734.jpg
 ./Paper, Cardboard Cup/original_20230702_222418.jpg
 ./Paper, Cardboard Cup/original_20230702_222320.jpg
 ./Paper, Cardboard Cup/original_20230702_222339.jpg
@@ -1359,7 +1372,6 @@
 ./Paper, Cardboard Cup/original_20230711_214212.jpg
 ./Paper, Cardboard Cup/original_20230803_204954.jpg
 ./Paper, Cardboard Cup/original_20230807_202014.jpg
-./Other, Rubber Balloon/original_20230804_110130.jpg
 ./Other, Rubber Balloon/original_20230804_110139.jpg
 ./Other, Rubber Balloon/original_20230807_202007.jpg
 ./Wood, Popsicle Stick/original_20230707_160851.jpg
@@ -1367,6 +1379,7 @@
 ./Wood, Popsicle Stick/original_20230707_160908.jpg
 ./Wood, Popsicle Stick/original_20230707_160837.jpg
 ./Wood, Popsicle Stick/original_20230711_214420.jpg
+./Wood, Popsicle Stick/original_20230822_125819.jpg
 ./Wood, Popsicle Stick/original_20230804_115907.jpg
 ./Wood, Popsicle Stick/original_20230711_214418.jpg
 ./Wood, Popsicle Stick/original_20230707_160912.jpg
@@ -1441,6 +1454,7 @@
 ./Metal, Aluminium Can/original_20230803_204739.jpg
 ./Metal, Aluminium Can/original_20230803_204211.jpg
 ./Metal, Aluminium Can/original_20230801_205517.jpg
+./Metal, Aluminium Can/original_20230822_125528.jpg
 ./Metal, Aluminium Can/original_20230616_215603.jpg
 ./Plastic, LDPE Shopping Bag/original_20230711_213655.jpg
 ./Plastic, LDPE Shopping Bag/original_20230801_205421.jpg
@@ -1531,6 +1545,7 @@
 ./Paper, Tissue Paper/original_20230616_213352.jpg
 ./Paper, Tissue Paper/original_20230621_142723.jpg
 ./Paper, Tissue Paper/original_20230616_213416.jpg
+./Paper, Tissue Paper/original_20230822_125920.jpg
 ./Paper, Tissue Paper/original_20230621_142811.jpg
 ./Paper, Tissue Paper/original_20230616_184521.jpg
 ./Paper, Tissue Paper/original_20230616_184501.jpg
