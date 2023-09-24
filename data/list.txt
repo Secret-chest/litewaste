@@ -27,6 +27,7 @@
 ./Paper, Small Cardboard Packaging/original_20230804_121558.jpg
 ./Paper, Small Cardboard Packaging/original_20230804_115943.jpg
 ./Paper, Small Cardboard Packaging/original_20230803_203854.jpg
+./Paper, Small Cardboard Packaging/original_cutie_carton.jpg
 ./Paper, Small Cardboard Packaging/original_20230804_121045.jpg
 ./Paper, Small Cardboard Packaging/original_IMG-20230712-WA0026.jpg
 ./Paper, Small Cardboard Packaging/original_IMG-20230712-WA0001.jpg
@@ -134,6 +135,7 @@
 ./Paper, Cardboard Box or Sheet/original_20230702_174010.jpg
 ./Paper, Cardboard Box or Sheet/original_20230702_173540.jpg
 ./Paper, Cardboard Box or Sheet/original_20230702_173655(0).jpg
+./Paper, Cardboard Box or Sheet/original_cutie_carton1.jpg
 ./Paper, Cardboard Box or Sheet/original_20230702_174338.jpg
 ./Paper, Cardboard Box or Sheet/original_20230702_173533.jpg
 ./Paper, Cardboard Box or Sheet/original_20230702_174233.jpg
@@ -162,6 +164,7 @@
 ./Paper, Cardboard Box or Sheet/original_20230616_191250.jpg
 ./Paper, Cardboard Box or Sheet/original_20230702_173657.jpg
 ./Paper, Cardboard Box or Sheet/original_20230702_174005.jpg
+./Paper, Cardboard Box or Sheet/original_cutie_carton2.jpg
 ./Paper, Cardboard Box or Sheet/original_20230616_191317.jpg
 ./Paper, Cardboard Box or Sheet/original_20230702_173743.jpg
 ./Paper, Cardboard Box or Sheet/original_20230702_174305.jpg
@@ -254,12 +257,14 @@
 ./Paper, Cardboard Box or Sheet/original_20230702_173430.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214344.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_213946.jpg
+./Plastic, LDPE Bag or Film/original_textile.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214213.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_213803.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_213758.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214319.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214356.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214510.jpg
+./Plastic, LDPE Bag or Film/original_punga_plastic3.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214443.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214219.jpg
 ./Plastic, LDPE Bag or Film/original_20230704_163053.jpg
@@ -298,6 +303,7 @@
 ./Plastic, LDPE Bag or Film/original_20230616_213809.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214044.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214525.jpg
+./Plastic, LDPE Bag or Film/original_punga_plastic6.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214326.jpg
 ./Plastic, LDPE Bag or Film/original_20230617_082223.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214017.jpg
@@ -308,6 +314,8 @@
 ./Plastic, LDPE Bag or Film/original_20230616_214450.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_213840.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214447.jpg
+./Plastic, LDPE Bag or Film/original_punga_plastic5.jpg
+./Plastic, LDPE Bag or Film/original_punga_plastic2.jpg
 ./Plastic, LDPE Bag or Film/original_20230617_082126.jpg
 ./Plastic, LDPE Bag or Film/original_20230617_082212.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214236.jpg
@@ -317,6 +325,7 @@
 ./Plastic, LDPE Bag or Film/original_20230616_214257.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214007.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_213908.jpg
+./Plastic, LDPE Bag or Film/original_punga_plastic.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_200215.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_213854.jpg
 ./Plastic, LDPE Bag or Film/original_20230616_214520.jpg
@@ -333,19 +342,23 @@
 ./Plastic, White PP Cup/original_20230807_201723.jpg
 ./Other, Kitchen Sponge/original_20230803_205705.jpg
 ./Plastic, PP Label/original_20230803_205901.jpg
+./Plastic, PP Label/original_sticla1.jpg
 ./Plastic, PP Label/original_20230804_195641.jpg
 ./Plastic, PP Label/original_20230804_195913.jpg
 ./Plastic, PP Label/original_20230803_205027.jpg
+./Other, Pillow/original_perna.jpg
 ./Other, Cigarette Butt/original_20230804_200006.jpg
 ./Other, Cigarette Butt/original_20230712_165901.jpg
 ./Other, Cigarette Butt/original_20230617_205509.jpg
 ./Other, Cigarette Butt/original_20230711_212929.jpg
 ./Other, Cigarette Butt/original_20230804_195832.jpg
 ./Other, Cigarette Butt/original_20230617_205647.jpg
+./Other, Cigarette Butt/original_tigari2.jpg
 ./Other, Cigarette Butt/original_20230617_205636.jpg
 ./Other, Cigarette Butt/original_20230711_212950.jpg
 ./Other, Cigarette Butt/original_20230617_205617.jpg
 ./Other, Cigarette Butt/original_20230617_205640.jpg
+./Other, Cigarette Butt/original_tigara.jpg
 ./Other, Cigarette Butt/original_20230711_212940.jpg
 ./Other, Cigarette Butt/original_20230804_195903.jpg
 ./Other, Cigarette Butt/original_20230617_205639.jpg
@@ -356,11 +369,13 @@
 ./Other, Cigarette Butt/original_20230804_121103.jpg
 ./Other, Cigarette Butt/original_20230617_205606.jpg
 ./Other, Cigarette Butt/original_20230711_212944.jpg
+./Other, Cigarette Butt/original_fier1.jpg
 ./Other, Cigarette Butt/original_20230617_205610.jpg
 ./Other, Cigarette Butt/original_20230711_212942.jpg
 ./Other, Cigarette Butt/original_20230711_213558.jpg
 ./Other, Cigarette Butt/original_20230704_161802.jpg
 ./Other, Cigarette Butt/original_20230711_213450.jpg
+./Other, Cigarette Butt/original_tigara3.jpg
 ./Other, Cigarette Butt/original_20230617_205548.jpg
 ./Other, Cigarette Butt/original_20230804_195437.jpg
 ./Other, Cigarette Butt/original_20230704_163930.jpg
@@ -370,8 +385,11 @@
 ./Other, Cigarette Butt/original_20230617_205544.jpg
 ./Other, Cigarette Butt/original_20230617_205534.jpg
 ./Other, Cigarette Butt/original_20230804_195840.jpg
+./Other, Cigarette Butt/original_tigari3.jpg
 ./Other, Cigarette Butt/original_20230804_200000.jpg
 ./Other, Cigarette Butt/original_20230711_213318.jpg
+./Other, Cigarette Butt/original_tigari4.jpg
+./Other, Cigarette Butt/original_tigara1.jpg
 ./Other, Cigarette Butt/original_20230617_205520.jpg
 ./Other, Cigarette Butt/original_20230617_205541.jpg
 ./Other, Cigarette Butt/original_20230804_121059.jpg
@@ -455,6 +473,7 @@
 ./Plastic, PET Bottle/original_20230807_203409.jpg
 ./Plastic, PET Bottle/original_20230616_194016.jpg
 ./Plastic, PET Bottle/original_20230702_210355.jpg
+./Plastic, PET Bottle/original_sticla_plastic.jpg
 ./Plastic, PET Bottle/original_20230616_183956.jpg
 ./Plastic, PET Bottle/original_20230711_215124.jpg
 ./Plastic, PET Bottle/original_20230704_162221.jpg
@@ -494,17 +513,21 @@
 ./Plastic, PET Bottle/original_20230803_203729.jpg
 ./Plastic, PET Bottle/original_20230616_183946.jpg
 ./Plastic, PET Bottle/original_20230704_162739.jpg
+./Plastic, PET Bottle/original_sticla_plastic1.jpg
 ./Plastic, PET Bottle/original_20230801_204151.jpg
 ./Plastic, PET Bottle/original_20230616_185556.jpg
+./Plastic, PET Bottle/original_sticla_plastic5.jpg
 ./Plastic, PET Bottle/original_20230803_205019.jpg
 ./Plastic, PET Bottle/original_20230803_205039.jpg
 ./Plastic, PET Bottle/original_20230616_185729.jpg
 ./Plastic, PET Bottle/original_20230807_203522.jpg
 ./Plastic, PET Bottle/original_20230616_185612.jpg
+./Plastic, PET Bottle/original_sticla_plastic2.jpg
 ./Plastic, PET Bottle/original_20230704_163309.jpg
 ./Plastic, PET Bottle/original_20230616_185648.jpg
 ./Plastic, PET Bottle/original_20230616_190001.jpg
 ./Plastic, PET Bottle/original_20230711_215111.jpg
+./Plastic, PET Bottle/original_sticla_plastic3.jpg
 ./Plastic, PET Bottle/original_20230616_184020.jpg
 ./Plastic, PET Bottle/original_20230807_203937.jpg
 ./Plastic, PET Bottle/original_20230616_185411.jpg
@@ -552,6 +575,7 @@
 ./Plastic, PET Bottle/original_20230704_161901.jpg
 ./Plastic, PET Bottle/original_20230616_185432.jpg
 ./Plastic, PET Bottle/original_20230616_185537.jpg
+./Plastic, PET Bottle/original_sticla_plastic4.jpg
 ./Plastic, PET Bottle/original_20230704_162020.jpg
 ./Plastic, PET Bottle/original_20230801_205012.jpg
 ./Plastic, PET Bottle/original_20230807_203227.jpg
@@ -657,13 +681,16 @@
 ./Plastic, PET Cup/original_20230702_175204.jpg
 ./Plastic, PET Cup/original_20230702_175011.jpg
 ./Plastic, PET Cup/original_20230702_175343.jpg
+./Paper, Tissue Paper/original_servetel5.jpg
 ./Paper, Tissue Paper/original_20230616_212923.jpg
 ./Paper, Tissue Paper/original_20230616_213021.jpg
 ./Paper, Tissue Paper/original_20230616_212828.jpg
 ./Paper, Tissue Paper/original_20230621_142739.jpg
+./Paper, Tissue Paper/original_servetel6.jpg
 ./Paper, Tissue Paper/original_20230616_194248.jpg
 ./Paper, Tissue Paper/original_20230616_185021.jpg
 ./Paper, Tissue Paper/original_20230616_213501.jpg
+./Paper, Tissue Paper/original_serfetel.jpg
 ./Paper, Tissue Paper/original_20230616_213030.jpg
 ./Paper, Tissue Paper/original_20230616_194443.jpg
 ./Paper, Tissue Paper/original_20230711_213639.jpg
@@ -677,7 +704,9 @@
 ./Paper, Tissue Paper/original_20230616_213506.jpg
 ./Paper, Tissue Paper/original_20230616_212926.jpg
 ./Paper, Tissue Paper/original_20230711_213636.jpg
+./Paper, Tissue Paper/original_servetel4.jpg
 ./Paper, Tissue Paper/original_20230822_125920.jpg
+./Paper, Tissue Paper/original_servetel3.jpg
 ./Paper, Tissue Paper/original_20230616_213407.jpg
 ./Paper, Tissue Paper/original_20230616_184725.jpg
 ./Paper, Tissue Paper/original_20230616_213416.jpg
@@ -687,6 +716,7 @@
 ./Paper, Tissue Paper/original_20230616_184617.jpg
 ./Paper, Tissue Paper/original_20230621_142802.jpg
 ./Paper, Tissue Paper/original_20230804_195453.jpg
+./Paper, Tissue Paper/original_servetel1.jpg
 ./Paper, Tissue Paper/original_20230616_213355.jpg
 ./Paper, Tissue Paper/original_20230616_185013.jpg
 ./Paper, Tissue Paper/original_20230616_213443.jpg
@@ -696,12 +726,14 @@
 ./Paper, Tissue Paper/original_20230616_212838.jpg
 ./Paper, Tissue Paper/original_20230616_213254.jpg
 ./Paper, Tissue Paper/original_20230704_161823.jpg
+./Paper, Tissue Paper/original_servetel8.jpg
 ./Paper, Tissue Paper/original_20230621_142814.jpg
 ./Paper, Tissue Paper/original_20230616_184806.jpg
 ./Paper, Tissue Paper/original_20230616_213512.jpg
 ./Paper, Tissue Paper/original_20230616_194218.jpg
 ./Paper, Tissue Paper/original_20230616_184622.jpg
 ./Paper, Tissue Paper/original_20230616_212934.jpg
+./Paper, Tissue Paper/original_servetel7.jpg
 ./Paper, Tissue Paper/original_20230616_213352.jpg
 ./Paper, Tissue Paper/original_20230616_184800.jpg
 ./Paper, Tissue Paper/original_20230616_184530.jpg
@@ -713,6 +745,7 @@
 ./Paper, Tissue Paper/original_20230616_213219.jpg
 ./Paper, Tissue Paper/original_20230621_142747.jpg
 ./Paper, Tissue Paper/original_20230621_142723.jpg
+./Paper, Tissue Paper/original_servetel2.jpg
 ./Paper, Tissue Paper/original_20230616_194508.jpg
 ./Paper, Tissue Paper/original_20230616_213502.jpg
 ./Paper, Tissue Paper/original_20230616_195412.jpg
@@ -730,6 +763,7 @@
 ./Paper, Tissue Paper/original_20230616_185014.jpg
 ./Paper, Tissue Paper/original_20230616_185053.jpg
 ./Paper, Tissue Paper/original_IMG-20230712-WA0029.jpg
+./Paper, Tissue Paper/original_hartie_toaleta.jpg
 ./Paper, Tissue Paper/original_20230621_142758.jpg
 ./Paper, Tissue Paper/original_20230621_142710.jpg
 ./Paper, Tissue Paper/original_20230621_142647.jpg
@@ -798,6 +832,7 @@
 ./Plastic, Starch Bag/original_20230807_202352.jpg
 ./Plastic, Starch Bag/original_20230702_210223.jpg
 ./Plastic, Starch Bag/original_20230807_202307.jpg
+./Plastic, Starch Bag/original_punga_plastic7.jpg
 ./Plastic, PP Cutlery/original_20230616_202951.jpg
 ./Plastic, PP Cutlery/original_20230616_202807.jpg
 ./Plastic, PP Cutlery/original_20230616_200516.jpg
@@ -822,6 +857,7 @@
 ./Plastic, PP Cutlery/original_20230616_202828.jpg
 ./Plastic, PP Cutlery/original_20230616_200520.jpg
 ./Plastic, PP Cutlery/original_20230616_202900.jpg
+./Plastic, PP Cutlery/original_lingurita_plastic.jpg
 ./Plastic, PP Cutlery/original_20230616_202832.jpg
 ./Plastic, PP Cutlery/original_20230616_205346.jpg
 ./Plastic, PP Cutlery/original_20230616_203907.jpg
@@ -837,6 +873,7 @@
 ./Plastic, PP Cutlery/original_20230616_202722.jpg
 ./Plastic, PP Cutlery/original_20230616_203004.jpg
 ./Plastic, PP Cutlery/original_20230616_203843.jpg
+./Plastic, PP Cutlery/original_ligurita_lemn1.jpg
 ./Plastic, PP Cutlery/original_20230616_202845.jpg
 ./Plastic, PP Cutlery/original_20230616_202751.jpg
 ./Plastic, PP Cutlery/original_20230616_203804.jpg
@@ -844,6 +881,9 @@
 ./Plastic, PP Cutlery/original_20230616_203743.jpg
 ./Plastic, PP Cutlery/original_20230616_202735.jpg
 ./Plastic, PP Cutlery/original_20230616_203752.jpg
+./Textile, Clothing/original_textile1.jpg
+./Textile, Clothing/original_textile5.jpg
+./Textile, Clothing/original_textile2.jpg
 ./Metal, Aluminium Can/original_IMG-20230712-WA0003.jpg
 ./Metal, Aluminium Can/original_20230803_204211.jpg
 ./Metal, Aluminium Can/original_20230711_213502.jpg
@@ -856,6 +896,7 @@
 ./Metal, Aluminium Can/original_20230704_163256.jpg
 ./Metal, Aluminium Can/original_20230616_215545.jpg
 ./Metal, Aluminium Can/original_20230803_204248.jpg
+./Metal, Aluminium Can/original_doza3.jpg
 ./Metal, Aluminium Can/original_20230803_205708.jpg
 ./Metal, Aluminium Can/original_20230801_205520.jpg
 ./Metal, Aluminium Can/original_20230616_215449.jpg
@@ -863,8 +904,10 @@
 ./Metal, Aluminium Can/original_20230803_203719.jpg
 ./Metal, Aluminium Can/original_20230704_163633.jpg
 ./Metal, Aluminium Can/original_20230803_204346.jpg
+./Metal, Aluminium Can/original_doza7.jpg
 ./Metal, Aluminium Can/original_20230616_215613.jpg
 ./Metal, Aluminium Can/original_20230616_215603.jpg
+./Metal, Aluminium Can/original_doza6.jpg
 ./Metal, Aluminium Can/original_20230704_162032.jpg
 ./Metal, Aluminium Can/original_20230801_205255.jpg
 ./Metal, Aluminium Can/original_20230711_214047.jpg
@@ -886,6 +929,7 @@
 ./Metal, Aluminium Can/original_20230616_215454.jpg
 ./Metal, Aluminium Can/original_20230711_214226.jpg
 ./Metal, Aluminium Can/original_20230807_202152.jpg
+./Metal, Aluminium Can/original_doza2.jpg
 ./Metal, Aluminium Can/original_IMG-20230712-WA0019.jpg
 ./Metal, Aluminium Can/original_20230704_162451.jpg
 ./Metal, Aluminium Can/original_IMG-20230712-WA0015.jpg
@@ -901,6 +945,7 @@
 ./Metal, Aluminium Can/original_20230801_205018.jpg
 ./Metal, Aluminium Can/original_20230803_204813.jpg
 ./Metal, Aluminium Can/original_20230704_163528.jpg
+./Metal, Aluminium Can/original_doza1.jpg
 ./Metal, Aluminium Can/original_20230803_204034.jpg
 ./Metal, Aluminium Can/original_20230616_215645.jpg
 ./Metal, Aluminium Can/original_20230807_203811.jpg
@@ -908,6 +953,7 @@
 ./Metal, Aluminium Can/original_20230807_202633.jpg
 ./Metal, Aluminium Can/original_20230801_205729.jpg
 ./Metal, Aluminium Can/original_20230801_205239.jpg
+./Metal, Aluminium Can/original_doza5.jpg
 ./Metal, Aluminium Can/original_20230711_213427.jpg
 ./Metal, Aluminium Can/original_20230803_204739.jpg
 ./Metal, Aluminium Can/original_20230707_132751.jpg
@@ -1016,6 +1062,8 @@
 ./Wood, Solid Wood/original_20230807_203651.jpg
 ./Wood, Solid Wood/original_20230711_215139.jpg
 ./Other, Cigarette Package/original_20230711_213553.jpg
+./Other, Cigarette Package/original_pachet_tigari.jpg
+./Other, Cigarette Package/original_pachet_tigari1.jpg
 ./Other, Cigarette Package/original_20230711_214152.jpg
 ./Other, Cigarette Package/original_20230801_205311.jpg
 ./Other, Cigarette Package/original_20230801_205619.jpg
@@ -1087,6 +1135,7 @@
 ./Plastic, PP Film/original_20230704_163735.jpg
 ./Plastic, PP Film/original_20230616_221055.jpg
 ./Plastic, PP Film/original_IMG-20230711-WA0005.jpg
+./Plastic, PP Film/original_punga_plastic8.jpg
 ./Plastic, PP Film/original_20230616_221134.jpg
 ./Plastic, PP Film/original_20230705_110722.jpg
 ./Plastic, PP Film/original_20230616_221100.jpg
@@ -1150,6 +1199,7 @@
 ./Paper, Stationery/original_20230616_191020.jpg
 ./Paper, Stationery/original_20230704_161452.jpg
 ./Paper, Stationery/original_20230616_191014.jpg
+./Paper, Stationery/original_hartie1.jpg
 ./Paper, Stationery/original_20230616_190601.jpg
 ./Paper, Stationery/original_20230711_213657.jpg
 ./Paper, Stationery/original_20230616_191045.jpg
@@ -1171,6 +1221,7 @@
 ./Paper, Stationery/original_20230616_190708.jpg
 ./Paper, Stationery/original_20230616_190533.jpg
 ./Paper, Stationery/original_20230616_190711.jpg
+./Paper, Stationery/original_hartie8.jpg
 ./Paper, Stationery/original_20230616_190639.jpg
 ./Paper, Stationery/original_20230616_190700.jpg
 ./Paper, Stationery/original_20230616_190606.jpg
@@ -1197,6 +1248,7 @@
 ./Paper, Paper Bag/original_20230702_172759.jpg
 ./Paper, Paper Bag/original_20230707_160757.jpg
 ./Paper, Paper Bag/original_20230617_082930.jpg
+./Paper, Paper Bag/original_hartie4.jpg
 ./Paper, Paper Bag/original_20230702_173037.jpg
 ./Paper, Paper Bag/original_20230616_195115.jpg
 ./Paper, Paper Bag/original_20230617_082927.jpg
@@ -1263,6 +1315,7 @@
 ./Metal, Aluminium Foil and Packaging/original_20230801_204321.jpg
 ./Metal, Aluminium Foil and Packaging/original_20230804_110149.jpg
 ./Wood, Wooden Utensil/original_20230707_184918.jpg
+./Glass, Clear Glass/original_sticla_parfum.jpg
 ./Glass, Clear Glass/original_20230616_215139.jpg
 ./Glass, Clear Glass/original_20230616_214819.jpg
 ./Glass, Clear Glass/original_20230616_214943.jpg
@@ -1300,6 +1353,7 @@
 ./Glass, Clear Glass/original_20230616_215019.jpg
 ./Glass, Clear Glass/original_20230616_215120.jpg
 ./Glass, Clear Glass/original_20230616_215144.jpg
+./Glass, Clear Glass/original_sticla.jpg
 ./Other, Construction Waste/original_caramida.jpg
 ./Plastic, LDPE Shopping Bag/original_20230801_205421.jpg
 ./Plastic, LDPE Shopping Bag/original_20230711_213655.jpg
@@ -1347,6 +1401,7 @@
 ./Plastic, Plastic Bottle Cap/original_20230804_195910.jpg
 ./Plastic, Plastic Bottle Cap/original_20230711_213009.jpg
 ./Glass, Green Glass/original_20230711_213120.jpg
+./Glass, Green Glass/original_sticla3.jpg
 ./Glass, Green Glass/original_20230711_213127.jpg
 ./Glass, Green Glass/original_20230803_204227.jpg
 ./Glass, Green Glass/original_20230803_204832.jpg
@@ -1356,8 +1411,11 @@
 ./Glass, Green Glass/original_20230711_213130.jpg
 ./Glass, Green Glass/original_IMG-20230712-WA0024.jpg
 ./Glass, Green Glass/original_20230807_202028.jpg
+./Metal, Aluminium Pouch or Wrap/original_punga_plastic9.jpg
 ./Metal, Aluminium Pouch or Wrap/original_20230801_205721.jpg
+./Metal, Aluminium Pouch or Wrap/original_punga_plastic1.jpg
 ./Metal, Aluminium Pouch or Wrap/original_20230804_200013.jpg
+./Metal, Aluminium Pouch or Wrap/original_plastic4.jpg
 ./Metal, Aluminium Pouch or Wrap/original_20230803_204944.jpg
 ./Metal, Aluminium Pouch or Wrap/original_IMG-20230712-WA0007.jpg
 ./Metal, Aluminium Pouch or Wrap/original_IMG-20230711-WA0011.jpg
@@ -1395,8 +1453,10 @@
 ./Metal, Aluminium Pouch or Wrap/original_20230707_132806.jpg
 ./Metal, Aluminium Pouch or Wrap/original_20230711_213330.jpg
 ./Metal, Aluminium Pouch or Wrap/original_IMG-20230711-WA0006.jpg
+./Metal, Aluminium Pouch or Wrap/original_plastic6.jpg
 ./Metal, Aluminium Pouch or Wrap/original_20230807_201750.jpg
 ./Metal, Aluminium Pouch or Wrap/original_20230803_204234.jpg
+./Metal, Aluminium Pouch or Wrap/original_punga_plastic10.jpg
 ./Metal, Aluminium Pouch or Wrap/original_20230803_204933.jpg
 ./Metal, Aluminium Pouch or Wrap/original_20230801_204511.jpg
 ./Metal, Aluminium Pouch or Wrap/original_20230803_204824.jpg
@@ -1407,6 +1467,7 @@
 ./Plastic, PVC Pipe/original_20230807_202731.jpg
 ./Plastic, PVC Pipe/original_20230704_163642.jpg
 ./Plastic, PVC Pipe/original_20230704_162348.jpg
+./Plastic, PVC Pipe/original_tub_plastic.jpg
 ./Plastic, PVC Pipe/original_20230807_202735.jpg
 ./Plastic, PVC Pipe/original_20230807_202737.jpg
 ./Paper, Paper Straw/original_20230702_174714.jpg
@@ -1433,9 +1494,12 @@
 ./Paper, Paper Straw/original_20230702_174908.jpg
 ./Paper, Paper Straw/original_20230707_160828.jpg
 ./Paper, Paper Straw/original_20230702_174822.jpg
+./Plastic, Hard PP Container/original_cutie_plastic.jpg
 ./Glass, Green Glass Shards/original_20230807_202044.jpg
 ./Glass, Green Glass Shards/original_20230807_202040.jpg
+./Plastic, PP Straw/original_plastic5.jpg
 ./Plastic, PP Straw/original_20230804_121611.jpg
+./Plastic, PP Straw/original_plastic.jpg
 ./Glass, Clear Glass Shards/original_20230804_195434.jpg
 ./Glass, Clear Glass Shards/original_20230804_195534.jpg
 ./Glass, Clear Glass Shards/original_20230804_195530.jpg
@@ -1468,6 +1532,7 @@
 ./Paper, Cardboard Cup/original_20230702_222358.jpg
 ./Paper, Cardboard Cup/original_20230702_222327.jpg
 ./Paper, Cardboard Cup/original_20230702_222607.jpg
+./Paper, Cardboard Cup/original_pahar.jpg
 ./Paper, Cardboard Cup/original_20230702_222320.jpg
 ./Paper, Cardboard Cup/original_20230702_222316.jpg
 ./Paper, Cardboard Cup/original_20230702_222724.jpg
@@ -1495,6 +1560,8 @@
 ./Paper, Cardboard Cup/original_20230702_222624.jpg
 ./Paper, Cardboard Cup/original_20230702_222402.jpg
 ./Paper, Cardboard Cup/original_20230702_222856.jpg
+./Paper, Cardboard Cup/original_doza.jpg
+./Paper, Cardboard Cup/original_pahar1.jpg
 ./Paper, Cardboard Cup/original_20230702_222732.jpg
 ./Paper, Cardboard Cup/original_20230807_202014.jpg
 ./Paper, Cardboard Cup/original_20230702_222438.jpg
@@ -1546,6 +1613,7 @@
 ./Paper, Cardboard Cup/original_20230804_115933.jpg
 ./Paper, Cardboard Cup/original_20230807_202824.jpg
 ./Textile, Wet Wipes/original_20230803_204319.jpg
+./Textile, Wet Wipes/original_hartie2.jpg
 ./Textile, Wet Wipes/original_20230803_204457.jpg
 ./Textile, Wet Wipes/original_20230804_110358.jpg
 ./Textile, Wet Wipes/original_20230804_121634.jpg
@@ -1559,10 +1627,14 @@
 ./Wood, Wooden Stick/original_20230803_205215.jpg
 ./Wood, Wooden Stick/original_20230803_205242.jpg
 ./Wood, Wooden Stick/original_20230804_121846.jpg
+./Medical, Medicine Package/original_plastic_medicamente.jpg
 ./Medical, Medicine Package/original_ambalaj_medicament.jpg
+./Medical, Medicine Package/original_recipient_medicament.jpg
+./Organic, Bone/original_oase.jpg
 ./Other, Baby Food Pouch/original_20230801_205451.jpg
 ./Paper, Newspaper or Magazine/original_20230616_195725.jpg
 ./Paper, Newspaper or Magazine/original_20230616_195632.jpg
+./Paper, Newspaper or Magazine/original_hartie7.jpg
 ./Paper, Newspaper or Magazine/original_20230616_195714.jpg
 ./Paper, Newspaper or Magazine/original_20230616_195639.jpg
 ./Paper, Newspaper or Magazine/original_20230804_121548.jpg
@@ -1570,3 +1642,6 @@
 ./Paper, Newspaper or Magazine/original_20230616_195701.jpg
 ./Paper, Newspaper or Magazine/original_20230616_195707.jpg
 ./Paper, Newspaper or Magazine/original_20230616_195648.jpg
+./Paper, Receipt/original_hartie.jpg
+./Paper, Receipt/original_hartie6.jpg
+./Metal, Mixed Metal Parts/original_fier.jpg
