@@ -35,7 +35,9 @@ You do not have to comply with the terms of both licences. Choose one and comply
 
 The images in the repository are licensed depending on their source:
 
-* If the file name has the `original` prefix, the images are licenced under the same terms as the annotations (see above).
+* If the file name has the `original` prefix (or no prefix at all), the images are licenced under the same terms as the annotations (see above).
+* If the file name has the `trash-detection` prefix, it comes from https://universe.roboflow.com/nora-slimani/trash-detection-otdmj and is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
+* If the file name has the `dwc` prefix, it comes from https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification and is public domain.
 
 The VIA application shipped in this repository (located at the `/via` path) is licensed under the BSD licence.
 > Copyright (c) 2016-2021, Abhishek Dutta, Visual Geometry Group, Oxford University and VIA Contributors.
